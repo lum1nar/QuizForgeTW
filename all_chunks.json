@@ -16703,5 +16703,2213 @@
     ],
     "chunk_text": "2. Paul bought us two tickets last night. =",
     "filename": "./pdf/市立林園高中附設國中 八年級 112 下學期 語文領域 英文 第二次段考 期中考 南一 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "when / before / after"
+    ],
+    "chunk_text": "11. ( )Let me know after you ______ your name, age, and date of birth in the boxes on the webpage().\n(A)carry (B)feed (C) hit (D) enter",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第三次段考 期末考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "can"
+    ],
+    "chunk_text": "12. ( )The twin sisters look like each other. I can never _____ Lisa _____ Linda.\n(A)tell; from (B)correct; for (C)hide; from (D)ask; for",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第三次段考 期末考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "be 動詞現在式",
+      "第三人稱單數現在式"
+    ],
+    "chunk_text": "13. ( )Everything seems() to be hard for Tina to choose, so she always makes her decision() at the last _______.\n(A)moment (B)straw (C)plate (D)trip",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第三次段考 期末考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "祈使句"
+    ],
+    "chunk_text": "14. ( )They just had a serious fight. Leave them ______. It takes some time for them to cool down.\n(A) plastic (B)alone (C)low (D)dangerous",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第三次段考 期末考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "過去簡單式（規則 / 不規則）",
+      "動名詞"
+    ],
+    "chunk_text": "15. ( )Before the cups and glasses broke into pieces, I _____ a girl _____ loudly.\n(A)saw; cried (B)heard; crying (C)feel; cry (D) watch; cries",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第三次段考 期末考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "if",
+      "助動詞 do / does / did"
+    ],
+    "chunk_text": "16. ( )When _____ John come to the party if he _____ drive his dad’s car tonight? I don’t know.\n(A)will; won’t (B)does; won’t (C)will; can’t (D)does; can’t",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第三次段考 期末考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "未來式（will / be going to）"
+    ],
+    "chunk_text": "17. ( )There’s going to be a big concert here. It is surely one of the most exciting ______ in our city.\n(A)elevator (B) land (C)point (D)event",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第三次段考 期末考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "名詞單複數"
+    ],
+    "chunk_text": "18. ( )Bryan, Mom wants to know the _____ of your makeup test(). Did you pass it or not?\n(A)result (B)ocean (C)shelf (D)environment",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第三次段考 期末考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "不定詞",
+      "when / before / after"
+    ],
+    "chunk_text": "19. ( )Lucy’s dream is to go _____ for further study in Japan after she graduates from college().\n(A)suddenly (B)sincerely (C)abroad (D)luckily",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第三次段考 期末考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "過去簡單式（規則 / 不規則）"
+    ],
+    "chunk_text": "20. ( )Princesses in many fairy tales() often have a good ending--they _____. living a happy life ever after.\n(A)made up (B)ended up (C)fell off (D)held onto",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第三次段考 期末考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "although"
+    ],
+    "chunk_text": "21. ( )_____we’ll never go to the restaurant(,) ______the owner ______ change the disposable tableware to metal next month.\n(A)X; though; will (B)X; if; won’t (C)Because; X; doesn’t (D)Although; X; doesn’t",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第三次段考 期末考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "反身代名詞",
+      "can"
+    ],
+    "chunk_text": "22. ( )Joan is leaving for the US for a new job. Her parents hope she can take care of ______.\n(A)themselves (B)them (C)hers (D)herself",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第三次段考 期末考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "not only…but also…"
+    ],
+    "chunk_text": "23. ( )Not only Lisa but also her parents _____ crazy for K-Pop. _____ of them is good at singing Korean songs.\n(A)is; All (B)is; Half (C)are; Every (D)are; Each",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第三次段考 期末考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "所有格（’s / of）"
+    ],
+    "chunk_text": "24. ( )Frank grew up in a small house. Now he wants to __________. ()\n(A)live on his own (B)have an own house (C) own a bigger house (D) have a house of his own",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第三次段考 期末考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "when / before / after",
+      "不定詞"
+    ],
+    "chunk_text": "25. ( ) “Look before you leap()” is a famous proverb() that teaches us to think carefully before __________.\n(A)rubbing against (B)going out (C)taking action (D)breaking down",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第三次段考 期末考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "動名詞"
+    ],
+    "chunk_text": "26. ( )______ other people always _____ Sara feel happy. She is such a kind girl.\n(A)Helping; makes (B)To help; make (C)Helping; lets (D)Help; get",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第三次段考 期末考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "不定數量詞（some, any, many, much, a few, a little, a lot of, lots of）"
+    ],
+    "chunk_text": "27. ( )The boy was sad to know _____ of his classmates came to his birthday party because _____ of them were at another party.\n(A)few; all (B)many; some (C)most; some (D)few; many",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第三次段考 期末考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "動名詞"
+    ],
+    "chunk_text": "28. ( ) _____ a good night’s sleep, _____ you’ll feel better next morning.\n(A)To have; X (B) Have; and (C)Having; so (D)To have; or",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第三次段考 期末考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "形容詞比較級",
+      "because / if",
+      "動名詞",
+      "祈使句",
+      "不定詞"
+    ],
+    "chunk_text": "29.\n(A) In winter, the weather in Kaohsiung is hotter than it in Taipei.\n(B) I know every of my friends very well because of we are close friends.\n(C) I can feel shaking myself when I saw the scary mask in the dark.\n(D) Be careful not to cut yourself when you are using the knife.",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第三次段考 期末考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "Wh- 問句",
+      "if",
+      "and / but"
+    ],
+    "chunk_text": "30.\n(A) Why bother to ask what to eat lunch if you are hungry?\n(B) I always order noodles, but this time I’d like to try rice instead.\n(C) Instead of go to bed, but he chose to stay and watching TV with me.\n(D) How many of girls are there have to take the elevator?",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第三次段考 期末考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "cloze_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "be 動詞現在式",
+      "一般動詞現在簡單式",
+      "第三人稱單數現在式",
+      "助動詞 can",
+      "助動詞 should",
+      "助動詞 may",
+      "助動詞 have to",
+      "不定詞",
+      "動名詞",
+      "介系詞",
+      "連接詞與從屬結構",
+      "名詞與冠詞",
+      "可數名詞與不可數名詞",
+      "名詞單複數"
+    ],
+    "chunk_text": "The Computer Language()\nComputers are everywhere. Almost everyone has to learn to use computers, 31 . Now some kids start to learn the computer language at an early age. In fact, some teachers say the best age to learn the computer language can be as young as four years old. It is as easy as learning to ride a bike for children at this age. They also say computer language is just 32 .\nMany people believe it’s easier for a kid under seven to learn a foreign language, so it makes sense ()that little kids in today’s world should learn the computer language. 33 , kids can learn computer language in a fun way. For example, they may play a video game of a robot first; then they start to write the codes() 34 to one place and then go to another. In other words, kids can learn the computer language by playing fun games and creating more interesting games.\n\n31.( ) (A)and some of us know how to use them (B)but all of us know how to use them (C)and not all of us know its language (D)but not all of us know its language\n32.( ) (A)other language (B)the other language (C)another language (D)other languages\n33.( ) (A)To have fun (B)However (C)Although (D)By learning it\n34.( ) (A)to make the robot move (B)by making the robot move (C)by moving the robot (D)moving the robot",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第三次段考 期末考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "cloze_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "be 動詞過去式",
+      "過去簡單式（規則 / 不規則）",
+      "助動詞 would",
+      "助動詞 used to",
+      "連接詞與從屬結構",
+      "介系詞",
+      "名詞與冠詞",
+      "可數名詞與不可數名詞",
+      "名詞單複數"
+    ],
+    "chunk_text": "Grandpa’s Island\nWhen my grandpa died, I was far away from home. I was busy working when the phone rang. And it never came to my mind that last year would be 35 time we met. Mom told me that Grandpa hardly recognized ()anyone or memorized ( )anything before he died. She also told me that he looked so weak. He held my left hand. He looked at me happily, with a big bright smile. At that moment, I noticed Grandpa knew me.\nI still can’t believe that life is so short that you lose your loved one all of a sudden. He 36 so strong and he went jogging in the early morning. He was proud of telling his life stories to us all. I remembered Grandpa had a garden and he enjoyed sharing with others the vegetables and flowers he grew. After his death, these things would never happen. I found the picture book “Grandpa’s Island.” In the book, the little boy went back to his grandpa’s old house after his grandpa died. He got the second chance to have a wonderful trip with his grandpa on a fantastic island. Before the boy went back to reality(), his grandpa 37 , and decided to stay and live on this beautiful island. The little boy learned to be brave ()and said goodbye to his grandpa. The grandpa’s island 38 in the little boy’s mind all the time. (so~that~ ～～)\n\n35.( )(A)at first (B)at last (C)the last (D)the first\n36.( )(A)is (B)used to be (C)is used to be (D)use to be\n37.( )(A)gives him a big hug (B)gives a big hug him (C)gave him a big hug (D)gave him to a big hug\n38.( )(A)will be (B)would be (C)is being (D)was to be",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第三次段考 期末考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "reading_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "be 動詞現在式",
+      "一般動詞現在簡單式",
+      "助動詞 might",
+      "助動詞 will",
+      "連接詞與從屬結構",
+      "介系詞",
+      "名詞與冠詞",
+      "可數名詞與不可數名詞",
+      "名詞單複數"
+    ],
+    "chunk_text": "The Truth of Microplastics\nMicroplastics() are new pollution() in the world. Microplastics are small pieces of plastic waste. From food to the ocean, microplastics are everywhere. The problem is that the microplastic is too small to see(～～). Most people don’t give enough care. Besides, the new study shows that each one of us eats almost “a credit card” every day. We might eat them while having seafood, breathing() them in through the air, or eating food with plastic packaging. For example, when we drink bottled water, we also drink a lot of microplastics at the same time. Microplastics become a terrible killer in our lives. Scientists care about this problem. They try hard to find out the truth about microplastics. They set a special machine outside to see what happens. They said, “You will see all kinds of shining plastic pieces in the air. The view is terrible. We are sure that you can also see lots of microplastics in the buildings.” When people breathe in microplastics, they might have health problem. What’s more, scientists point out another problem. If we recycle() plastics, they will become microplastics sooner or later(). Recycling is not the answer to our problem. The better way is to use fewer plastic products().\n\n39.( )What is the main idea of the reading?\n(A)People can see microplastics clearly when they drink water.\n(B)Each one of us almost eat a plastic credit card every day.\n(C)We don’t need to recycle plastics because it is not useful to do so.\n(D)Microplastics are everywhere, and we should care about the problem.",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第三次段考 期末考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "助動詞 do / does / did",
+      "Wh- 問句",
+      "be 動詞現在式",
+      "定冠詞 the",
+      "形容詞用法"
+    ],
+    "chunk_text": "40.( ) Why did the scientists say, “The view is terrible.” ?\n(A)They set a special machine to look for microplastic.\n(B)Microplastics in the air are more than we think.\n(C)People may have health problems when breathing in microplastics.\n(D)People might breathe in microplastics because they are so small.",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第三次段考 期末考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "which 的用法",
+      "be 動詞現在式",
+      "定冠詞 the"
+    ],
+    "chunk_text": "41.( ) Which is the plastic packaging?\n(A) (B) (C) (D)",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第三次段考 期末考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "Wh- 問句",
+      "be 動詞現在式",
+      "不定冠詞 a / an",
+      "人稱代名詞受格",
+      "介系詞",
+      "不定詞",
+      "形容詞比較級"
+    ],
+    "chunk_text": "42.( ) What might be a better way for us to keep away from microplastics?\n(A)We can bring our shopping bags and water bottles.\n(B)We can see a doctor and take medicine for the health problem.\n(C)We can drink bottled water and recycle the plastic bottles.\n(D)We can wear masks when going out or staying at home.",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第三次段考 期末考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "reading_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "be 動詞現在式",
+      "現在進行式",
+      "should / could / would",
+      "can",
+      "助動詞 do / does / did",
+      "Wh- 問句",
+      "介系詞",
+      "副詞（頻率）",
+      "不定詞",
+      "動名詞",
+      "too…to…",
+      "所有代名詞（形容詞性 / 名詞性）",
+      "人稱代名詞主格",
+      "人稱代名詞受格",
+      "定冠詞 the",
+      "形容詞用法"
+    ],
+    "chunk_text": "Dad is too nervous()! All my friends are doing this; all my aunts and teachers are doing this, too! It’s nothing. I mean it’s not dangerous at all. To me, it’s fun to put colors on my face, and it’s important to look good anytime.\nStaying up studying is killing me!\nMakayla Smith\nKids should be kids. Besides, she is pretty enough. I always tell her she doesn’t need make-up(). Why does she want to disguise her beauty? I am also worried about this change. Is she making wrong friends? Is she going to play all day and stop learning? What’s next?\nDouglas Smith\nSee my girl’s colorful face, I know she’s growing up. I know I should let go. I let her dress up and put up some make-up on weekends. On school days, she can also wear make-up, but it has to be as natural as possible.\nAnd she must not be late for school because of spending too much time putting it on.\nDaisy Smith\nSometimes they want to do so because they want respect() from their parents. They also want to make decisions about their own looks. Besides, they usually start to wear make-up in their early teens. It’s really important for teenagers to do the same things together. This makes them feel they are not alone. However, they may spend too much time on it or even look in the mirror too often in class. They shouldn’t do this.\nRobert Miller\n\n43.( ) What does the word “disguise” mean? (A)Hide (B)Agree (C)Cheer (D)Lend\n44.( ) Who may agree with each other?\n(A)Maykala and Douglas (B)Maykala and Daisy (C)Douglas and Daisy (D)Douglas and Robert\n45.( ) What are these people talking about?\n(A)Should kids make fun of others or shouldn’t they? (B)Should teenage girls put on make-up or shouldn’t they?\n(C)Should parents let go of their daughters or shouldn’t they? (D)Should students stay up late studying or shouldn’t they?\n46.( ) What may Maykala’s dad say to her?\n(A)It’s OK on weekends, but not on weekdays. (B)You are really good at colors. Keep painting.\n(C)Put down those make-up and study harder. (D)We love you and we respect your decisions.",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第三次段考 期末考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "cloze_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "介系詞與副詞"
+    ],
+    "chunk_text": "My aunt gave her jacket to me because my shirt wasn’t heavy enough. It was kind ___ her! (A) on (B) with (C) at (D) of",
+    "filename": "./pdf/縣立溪湖國中 八年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "cloze_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "過去簡單式（規則 / 不規則）"
+    ],
+    "chunk_text": "His aunt from Japan ___ a big robot to him. (A) bought (B) sent (C) ordered (D) got",
+    "filename": "./pdf/縣立溪湖國中 八年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "cloze_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "代名詞受格",
+      "介系詞與副詞"
+    ],
+    "chunk_text": "Can you give ___ ? (A) the card for me (B) it of me (C) me to it (D) me the card",
+    "filename": "./pdf/縣立溪湖國中 八年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "過去簡單式（規則 / 不規則）",
+      "Wh- 問句"
+    ],
+    "chunk_text": "Andy: How was your trip to Taiwan? Lisa: ___\n(A) Great! I had a good time.\n(B) I got it last week!\n(C) Your uncle is tall.\n(D) See you at school soon.",
+    "filename": "./pdf/縣立溪湖國中 八年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "所有代名詞（形容詞性 / 名詞性）",
+      "人稱代名詞主格"
+    ],
+    "chunk_text": "Jane: Is this Tony’s book?\nMia: No, ___ is over there.\n(A) he\n(B) his\n(C) its\n(D) there",
+    "filename": "./pdf/縣立溪湖國中 八年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "一般動詞現在簡單式",
+      "when / before / after"
+    ],
+    "chunk_text": "Josh: Don’t you like the rain in summer?\nLily: Of course. ___\n(A) It’s usually cool after the rain.\n(B) I hate rainy days.\n(C) I like them a lot.\n(D) I can’t go out on rainy days.",
+    "filename": "./pdf/縣立溪湖國中 八年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "Wh- 問句",
+      "助動詞 do / does / did",
+      "定冠詞 the",
+      "介系詞與副詞"
+    ],
+    "chunk_text": "4. What do we know from the story?\n(A) The old man died.\n(B) Jasper’s car hit the old man.\n(C) The weather that night was nice.\n(D) The old man only has one arm and one leg now.",
+    "filename": "./pdf/縣立溪湖國中 八年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "Wh- 問句",
+      "第三人稱單數現在式",
+      "不定冠詞 a / an",
+      "定冠詞 the"
+    ],
+    "chunk_text": "5. Which uses homonyms?\na. What do you call hot snow? Water.\nb. Why wasn’t the moon hungry? Because it was full.\nc. Why does every girl hate the sun? Because it is not cool.\nd. What goes up when the rain comes down? An umbrella.\n(A) a. and b.\n(B) c. and d.\n(C) b. and c.\n(D) a., b., and d.",
+    "filename": "./pdf/縣立溪湖國中 八年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "可數名詞與不可數名詞",
+      "名詞單複數",
+      "定冠詞 the"
+    ],
+    "chunk_text": "11. The ________ work in the sea. Life is not easy for them.\n(A) fishermen (B) businessmen (C) buildings (D) activities",
+    "filename": "./pdf/市立大灣國中 七年級 112 下學期 語文領域 英文 第三次段考 期末考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "可數名詞與不可數名詞",
+      "定冠詞 the"
+    ],
+    "chunk_text": "12. Jason always wants to make friends with the ________. He wants to make money from them.\n(A) wind (B) autumn (C) rich (D) cloud",
+    "filename": "./pdf/市立大灣國中 七年級 112 下學期 語文領域 英文 第三次段考 期末考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "時間介系詞",
+      "可數名詞與不可數名詞"
+    ],
+    "chunk_text": "13. Watermelons are in ________ throughout the summer, usually from May to September.\n(A) fall (B) season (C) yummy (D) month",
+    "filename": "./pdf/市立大灣國中 七年級 112 下學期 語文領域 英文 第三次段考 期末考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "一般動詞現在簡單式",
+      "助動詞 do / does / did",
+      "介系詞"
+    ],
+    "chunk_text": "14. A: Do you ________ in God? B: Of course. God is my life.\n(A) break (B) windy (C) check (D) believe",
+    "filename": "./pdf/市立大灣國中 七年級 112 下學期 語文領域 英文 第三次段考 期末考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "人稱代名詞主格"
+    ],
+    "chunk_text": "15. ________ never snows in Kaohsiung, even in a very cold winter.\n(A) There (B) We (C) They (D) It",
+    "filename": "./pdf/市立大灣國中 七年級 112 下學期 語文領域 英文 第三次段考 期末考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "there is / there are",
+      "過去簡單式（規則 / 不規則）",
+      "不定量詞（a lot of）"
+    ],
+    "chunk_text": "16. There ________ in Tainan last summer.\n(A) was rain a lot (B) doesn’t rain (C) wasn’t much rain (D) a lot of rain",
+    "filename": "./pdf/市立大灣國中 七年級 112 下學期 語文領域 英文 第三次段考 期末考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "副詞（頻率）",
+      "一般動詞現在簡單式",
+      "第三人稱單數現在式",
+      "動詞時態綜合應用"
+    ],
+    "chunk_text": "18. Which is correct?\n(A) My father eats seldom at home.\n(B) Mr. White usually jogs on the sports field on Tuesday evening.\n(C) Do always your family go to the fish market on Sundays?\n(D) It never snowy in the last five years in this small town.",
+    "filename": "./pdf/市立大灣國中 七年級 112 下學期 語文領域 英文 第三次段考 期末考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "cloze_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "be 動詞過去式",
+      "一般動詞過去式",
+      "現在簡單式",
+      "過去簡單式",
+      "助動詞 do / does / did",
+      "疑問句 Yes / No 問句",
+      "介系詞",
+      "形容詞用法",
+      "副詞（方式）",
+      "there is / there are"
+    ],
+    "chunk_text": "(At Paul’s house)\nAnn: Uncle Paul, 19.\nPaul: I was on a trip in Kaohsiung with my friends.\nAnn: How was the trip? Was it fun?\nPaul: Yes, it was great.\nAnn: How was the weather there?\nPaul: It was warm and sunny. Kaohsiung is a great city, and Love River is beautiful.\nAnn: 20. the river dirty?\nPaul: No. It was dirty before, but now 21. .\nAnn: That’s great.\nPaul: Many years ago, 22. , and the air wasn’t clean 23. . Now, there are a lot of green spaces along the river, and you can take a walk there.\nAnn: Wow! Kaohsiung was so different then.\n\n19. (A) where were you yesterday? (B) are you at home now? (C) were you home last night? (D) were you in Kaohsiung this Sunday?\n20. (A) Wasn’t (B) Isn’t (C) Does (D) Doesn’t\n21. (A) there is only fish in the water (B) there were lots of fish in the water (C) you can’t see any trash there (D) it is even dirtier () there\n22. (A) people are building factories everywhere (B) only some trees are along Love River (C) there were busy workers there (D) factories were everywhere along the river\n23. (A) at that time (B) from now on (C) very often (D) from then",
+    "filename": "./pdf/市立大灣國中 七年級 112 下學期 語文領域 英文 第三次段考 期末考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "cloze_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "be 動詞過去式",
+      "be 動詞現在式",
+      "一般動詞現在簡單式",
+      "助動詞 do / does / did",
+      "Wh- 問句",
+      "名詞單複數",
+      "可數名詞與不可數名詞",
+      "定冠詞 the"
+    ],
+    "chunk_text": "Ann: I was in Japan 24. .\nBen: Again? 25. do you go there?\nAnn: 26. a year.\nBen: I envy you. How was the trip?\nAnn: It was fun. And the cherry blossom trees there 27. beautiful.\nBen: 28.\nAnn: Rainy and warm. envy  cherry blossom \n\n( ) 24. (A) tonight (B) next week (C) last week (D) on weekends\n( ) 25. (A) How long (B) How fun (C) How (D) How often\n( ) 26. (A) Two (B) Twice (C) Second (D) First time\n( ) 27. (A) was (B) is (C) are (D) were\n( ) 28. (A) What was the weather like there? (B) Is the weather nice in your hometown every night? (C) What do you know about it? (D) How often do you see the cherry blossom?",
+    "filename": "./pdf/市立大灣國中 七年級 112 下學期 語文領域 英文 第三次段考 期末考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "reading_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "一般動詞現在簡單式",
+      "助動詞與情態動詞",
+      "祈使句",
+      "頻率副詞",
+      "名詞單複數",
+      "可數名詞與不可數名詞",
+      "定冠詞 the"
+    ],
+    "chunk_text": "How often do you clean your cellphone? Once a month? Twice a week? Read the following, and you may change your habits. Which has more germs, a cellphone or a toilet seat? The answer might be a cellphone. A study shows that. In it, people check their cellphones about forty-seven times a day. For example, they use them at work. They use them in their free time. They even use them in the bathroom. Germs move from their fingers to their cellphones. From now on, clean your cellphones once a day. This can kill the germs on them.\n\n( ) 29. What is the reading mainly about? (A) Clean your cellphone more often. (B) Don’t use your cellphone for too long. (C) A toilet seat has more germs than (…) a cellphone. (D) Don’t use your cellphone in the bathroom.\n( ) 30. Which might be the title of the study? (A) How Often Do You Clean Your Toilet? (B) How Much Is Your Cellphone? (C) How Often Do You Check Your Cellphone? (D) How Dirty Is Your Cellphone?\n( ) 31. According to the reading, which is NOT true? (A) A study about cellphones shows that people check their phones about 47 times a day. (B) People use cellphones anytime and anywhere. (C) People can kill germs on cellphones by () cleaning them every day. (D) There are germs everywhere on cellphones, so we need to use them only at work.",
+    "filename": "./pdf/市立大灣國中 七年級 112 下學期 語文領域 英文 第三次段考 期末考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "reading_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "be 動詞過去式",
+      "be 動詞現在式",
+      "一般動詞現在簡單式",
+      "一般動詞過去簡單式",
+      "第三人稱單數現在式",
+      "助動詞 do / does / did",
+      "疑問句 Wh-問句",
+      "疑問句 Yes / No 問句",
+      "人稱代名詞主格",
+      "人稱代名詞受格",
+      "人稱代名詞所有格",
+      "頻率副詞"
+    ],
+    "chunk_text": "Nick: Hi, Lena. You weren’t home last night, right? Where were you?\nLena: I was out to dinner with some old friends. We were at Mike’s Cabin last night.\nNick: Oh, I know that restaurant. Is it in front of the city library?\nLena: It was three years ago, but now it is on Ericson Street. It’s next to a gym. Let me show you the map on my cellphone.\nNick: Oh, I see. Well, in fact, I seldom go there. I don’t like the food there. It’s terrible to me.\nLena: What are you talking about? The food there is super yummy. They have a new cook now. I love everything there.\nNick: Really? Do you often visit there?\nLena: Yeah. I go there every Wednesday and Sunday night. You must try their food again! You will () love it!\nNick: I will. Thank you.\n\n( ) 32. How many times does Lena go to Mike’s Cabin in a month?\n(A) Over ten times. (B) Twice. (C) Only once. (D) About 8 times.\n\n( ) 33. Three years ago, Mike’s Cabin was at , but now it’s at .\n(A) ② ; ① (B) ③④ (C) ③ ; ① (D) ② ; ③\n\n( ) 34. What DON’T we know about Mike’s Cabin?\n(A) It’s near Happy Gym. (B) It moves from Wilson Street to Ericson Street.\n(C) It has a different cook now. (D) It is not open on Mondays.\n\n( ) 35. Which is true?\n(A) Lena seldom goes to Mike’s Cabin. (B) Nick doesn’t like the new cook at Mike’s Cabin.\n(C) Yesterday might be Wednesday or Sunday. (D) Nick has dinner with Lena very often.",
+    "filename": "./pdf/市立大灣國中 七年級 112 下學期 語文領域 英文 第三次段考 期末考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "reading_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "一般動詞現在簡單式",
+      "助動詞 do / does / did",
+      "頻率副詞",
+      "疑問句 Wh-問句"
+    ],
+    "chunk_text": "Look at the schedule (). These are things Alice has to do in a week. Answer the following questions.\n\n( ) 36. How often does Alice cook for her family?\nMon. Tue. Wed. Thur. Fri. Sat. Sun.\n(A) Never. (B) Twice a week.\n(C) Once a month. (D) Every two days.\n\nmop the floor V V V V V V V\n\n( ) 37. Does Alice mop the floor on weekdays?\ntake out the trash V V V\n(A) Yes, she sometimes does. (B) Yes, she always does.\n(C) No, she seldom does. (D) Yes, but not usually.\n\ncook for family V V\n\n( ) 38. Alice does the dishes on the same days as () .\n(A) she cooks for her family (B) she washes the clothes do the dishes V V\n(C) she takes out the trash (D) she cleans the table\nwash the clothes V V V\n\n( ) 39. Alice is busy today. She has to mop the living room floor,\nwash clothes, clean tables, and walk her pet. What day is it?\nmake the bed V V V V\n(A) Saturday. (B) Tuesday.\n(C) Friday. (D) Friday and Saturday. walk the dog V\n\n( ) 40. Which of the following does Alice seldom do every week?\n(A) (B) (C) (D)\n\n4 / 4",
+    "filename": "./pdf/市立大灣國中 七年級 112 下學期 語文領域 英文 第三次段考 期末考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "be 動詞現在式",
+      "Wh- 問句",
+      "should / could / would",
+      "have to / has to",
+      "when / before / after",
+      "人稱代名詞受格"
+    ],
+    "chunk_text": "4. (A) The shoes aren’t for me. They’re for my son.\n(B) Which shoes should I buy? It’s hard to decide.\n(C) You have to try on the shoes before you buy them.",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "be 動詞現在式",
+      "Wh- 問句",
+      "助動詞 do / does / did"
+    ],
+    "chunk_text": "5. (A) Sure. What size do you wear?\n(B) Sure. The fitting room is over there.\n(C) Sure. What color do you want?",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "be 動詞現在式",
+      "Yes / No 問句",
+      "Wh- 問句",
+      "can",
+      "形容詞最高級",
+      "所有格（’s / of）"
+    ],
+    "chunk_text": "6. (A) Are you joking? I think it’s her worst book.\n(B) It isn’t, actually. The bookstore isn’t popular.\n(C) I’m sorry. Where can we buy a new one for you?",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "現在進行式",
+      "所有格（’s / of）",
+      "形容詞比較級",
+      "使役動詞",
+      "and / but"
+    ],
+    "chunk_text": "8. (A) The girl is wearing a short skirt.\n(B) The girl’s skirt is even shorter than her friends’.\n(C) The girl’s dad agreed with her and allowed her to wear the skirt.",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "because / if",
+      "過去簡單式（規則 / 不規則）",
+      "不定數量詞（some, any, many, much, a few, a little, a lot of, lots of）",
+      "不定詞"
+    ],
+    "chunk_text": "9. (A) Because she cared about the Earth.\n(B) Because she needed to save money.\n(C) Because she had too many clothes.",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "形容詞比較級",
+      "形容詞用法"
+    ],
+    "chunk_text": "We met Molly in the department store this afternoon. She is ______ before.\n(A) beautiful\n(B) beautiful than\n(C) as beautiful as\n(D) the most beautiful",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "形容詞最高級"
+    ],
+    "chunk_text": "Andy is the fastest ______.\n(A) than the three\n(B) than the other\n(C) of the two\n(D) of the three",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "代名詞"
+    ],
+    "chunk_text": "Smartphones are very convenient; every person in my family has _______.\n(A) it\n(B) one\n(C) them\n(D) these",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "形容詞最高級",
+      "形容詞比較級"
+    ],
+    "chunk_text": "The restaurant is better than all the other restaurants in the city.\n(A) The restaurant is the best in the city.\n(B) The restaurant is better than any other restaurants in the city.\n(C) The restaurant is as good as the other restaurants.\n(D) The restaurant is not very good.",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "形容詞最高級"
+    ],
+    "chunk_text": "The pond near the gate has ____ water of the four in the park.\n(A) little\n(B) less\n(C) the least\n(D) a little",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "形容詞比較級"
+    ],
+    "chunk_text": "My shoes are as expensive ______.\n(A) as Tom and Jack’s\n(B) than Peter’s shoes\n(C) than anyone else’s\n(D) as John’s",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "形容詞比較級"
+    ],
+    "chunk_text": "The show is very ________. I want to watch again.\n(A) more interesting\n(B) worse\n(C) much worse\n(D) interesting",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "代名詞"
+    ],
+    "chunk_text": "The pants aren’t your size. Please take ______.\n(A) it off\n(B) off it\n(C) off them\n(D) them off",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "不定詞"
+    ],
+    "chunk_text": "Tom decided ______ math. He was not interested () in it any more.\n(A) stopping to study\n(B) to stop studying\n(C) to stop to study\n(D) stopping studying",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "介系詞與副詞",
+      "形容詞用法"
+    ],
+    "chunk_text": "We should be __1.____ (careful) the text messages () that we received () on our smartphones.",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "形容詞比較級"
+    ],
+    "chunk_text": "Uncle David has many students. George is __2.___ (good).",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "形容詞用法"
+    ],
+    "chunk_text": "Peter seldom studies hard. His grades in every subject() go from ___3.___ (bad) to ___4____ (bad).",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "形容詞比較級"
+    ],
+    "chunk_text": "Which one is ____5.____ (thin) of your parents?",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "be 動詞現在式",
+      "形容詞比較級"
+    ],
+    "chunk_text": "5. The new desk is ____ (large) than the old one.",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "不定冠詞 a / an",
+      "形容詞用法"
+    ],
+    "chunk_text": "6. My aunt can sing pretty well. I can’t think of anyone with a ____ (good) voice.",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "be 動詞現在式",
+      "定冠詞 the",
+      "形容詞最高級"
+    ],
+    "chunk_text": "7. Lucy is ____ (popular) girl in our school because she always wears a big smile on her face.",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "形容詞比較級"
+    ],
+    "chunk_text": "8. If you want to have a strong and healthy body, you need to eat ____ (little) fast food and do ____ (much) exercise.",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "reading_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "be 動詞現在式",
+      "be 動詞過去式",
+      "一般動詞現在簡單式",
+      "一般動詞過去式",
+      "連接詞與從屬結構"
+    ],
+    "chunk_text": "Not long ago, people in Taiwan were talking about the most delicious food here. Most of the people on the Internet think that the Taiwanese snacks in Tainan are the most famous. However, people in other cities say it is wrong.\nA few days ago, there was a piece of news. One of the officers in Taichung said, “Our food is the best of all.” For example, there are a lot of different local snacks in both the night markets and the morning markets in Taichung. Besides, there are more and more foreign restaurants in Taichung. These foods are popular with the foreign tourists around the world.\nAll the food in Taiwan is special. The taste of food is different from person to person. The most delicious food should be in everyone’s mind.\n\n1. Which is the best title for this reading?\n(A) The Most Interesting Trip to Taiwan.\n(B) The Most Delicious Food in Taiwan.\n(C) The Most Famous Food in Taichung.\n(D) The Most Popular Food in Tainan.\n\n2. Which is true?\n(A) There is no delicious food in Taiwan.\n(B) Taiwanese food is not popular with foreigners.\n(C) The officers in Taichung love the food in Tainan.\n(D) A lot of food in Tainan is famous on the Internet.\n\n3. What does the writer mean in the last paragraph?\n(A) We should love the food in our own city the most.\n(B) No other food is better than that in Taiwan.\n(C) People’s taste of food is all different.\n(D) We should not believe the words on the Internet.",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "be 動詞過去式",
+      "形容詞比較級",
+      "Wh- 問句",
+      "時間介系詞"
+    ],
+    "chunk_text": "4. Why was the bushfire in 2019 and 2020 worse than before?\n(A) The weather in 2019 was much hotter.\n(B) The rain in 2019 was much less than before.\n(C) More people moved to Australia in this year.\n(D) There were fewer rainy days in Australia in 2019.",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "be 動詞現在式",
+      "Wh- 問句",
+      "介系詞"
+    ],
+    "chunk_text": "5. Which is NOT true about the Australian bushfires in 2019 and 2020?\n(A) There were hundreds of fires across Australia.\n(B) It happened during the summer months.\n(C) It started from a small camp fire in the forest.\n(D) It killed 34 people and three billion animals.",
+    "filename": "./pdf/市立大灣國中 八年級 112 下學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "連接詞與從屬結構",
+      "過去簡單式",
+      "一般動詞現在簡單式"
+    ],
+    "chunk_text": "2. A: Why did Grandmother bring so much fruit here? B: Today is Mom’s birthday ______ she _____.\n(A) because; bought her it\n(B) because; buy her it\n(C) ,so; bought it for her\n(D) ,so; buy it to her",
+    "filename": "./pdf/市立大灣國中 八年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "疑問句",
+      "助動詞 do / does / did"
+    ],
+    "chunk_text": "3. _____ Benny sick ? She didn’t look good yesterday.\n(A) Did\n(B) Does\n(C) Could\n(D) Was",
+    "filename": "./pdf/市立大灣國中 八年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "疑問句",
+      "助動詞 do / does / did",
+      "否定句"
+    ],
+    "chunk_text": "4. A:______ Sharon go to the movie with you last night? B: He needed to study for the test today.\n(A) Why did\n(B) Why didn’t\n(C) Didn’t\n(D) Did",
+    "filename": "./pdf/市立大灣國中 八年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "連接詞與從屬結構",
+      "介系詞"
+    ],
+    "chunk_text": "6. We didn’t go camping ______ the heavy rain. The weather was bad last weekend.\n(A) because\n(B) because of\n(C) so\n(D) as for",
+    "filename": "./pdf/市立大灣國中 八年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "動詞基本句型",
+      "現在簡單式",
+      "過去簡單式"
+    ],
+    "chunk_text": "7. Before lunchtime, Steven’s mom ____ five apples on the table. He _____ one after lunch.\n(A) puts; eats\n(B) put; ate\n(C) is putting; is eating\n(D) putted; eated",
+    "filename": "./pdf/市立大灣國中 八年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "代名詞",
+      "連接詞與從屬結構"
+    ],
+    "chunk_text": "8. I gave the clothes to Amy because ＿＿＿ too small for me.\n(A) she’s\n(B) they’re\n(C) it’s\n(D) I’m",
+    "filename": "./pdf/市立大灣國中 八年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "否定句",
+      "現在簡單式",
+      "過去簡單式"
+    ],
+    "chunk_text": "9. Life in the small town ______ easy, but it’s different now.\n(A) isn’t\n(B) wasn’t\n(C) doesn’t\n(D) didn’t",
+    "filename": "./pdf/市立大灣國中 八年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "疑問句",
+      "助動詞 do / does / did",
+      "過去簡單式"
+    ],
+    "chunk_text": "10. A: What did you _____ after dinner? B: I ______ the dishes in the kitchen and then surfed the Net.\n(A) did; do\n(B) did; did\n(C) do;do\n(D) do; did",
+    "filename": "./pdf/市立大灣國中 八年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "cloze_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "介系詞與副詞"
+    ],
+    "chunk_text": "X ; as for ; to ; on ; with ; for\n1. Allen wrote Mary __1.__ a birthday card.\n2. Put ___2.__ your hat. It’s sunny and hot outside.\n3. My grandmother couldn’t read or write, so I wrote __3.___ her.\n4. A: What happened __4.___ Benny this morning ? B: He had a fever.\n5. Both my sisters play badminton in their free time. ___5.___ me, tennis is my favorite sport.\n6. These children don’t know the answer ___6.___ the question. It’s too hard for them.\n7. The man shared some old photos of the fishing town___7.___the visitors over there.\n8. I didn’t have money ____8.____ me because I lost my wallet() this morning..",
+    "filename": "./pdf/市立大灣國中 八年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "reading_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "過去簡單式",
+      "現在進行式",
+      "介系詞與副詞",
+      "形容詞用法",
+      "動詞時態綜合應用"
+    ],
+    "chunk_text": "Dear Lisa,\nI’m now in India with my friend Susan. It’s cool here in winter. The weather is just lovely. We 1. a train during the trip, and we were on the train 2. about seven hours. It was very crowded() on the train, and we didn’t have a seat. But you know what? 3. They were so kind. Also, Susan and I bought bags in a shop near our hotel. Susan’s is big, 4. mine() is blue and small. I bought one for you as a gift, too. Maybe we can take a trip here together next year. India is really a beautiful place.\n\n1. (A)take (B)took (C)takes (D)are taking\n2. (A)in (B)on (C)for (D)to\n3. (A)take (B)took (C)takes (D)are taking\n4. (A)mine (B)my (C)my's (D)mine's",
+    "filename": "./pdf/市立大灣國中 八年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "reading_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "名詞與冠詞 - 專有名詞",
+      "名詞與冠詞 - 可數名詞與不可數名詞",
+      "名詞與冠詞 - 名詞單複數",
+      "代名詞 - 人稱代名詞主格",
+      "代名詞 - 人稱代名詞受格",
+      "代名詞 - 所有代名詞（形容詞性 / 名詞性）",
+      "動詞基本句型 - be 動詞現在式",
+      "動詞基本句型 - 一般動詞現在簡單式",
+      "助動詞與情態動詞 - can",
+      "助動詞與情態動詞 - will",
+      "助動詞與情態動詞 - do / does / did",
+      "時態 - 現在簡單式",
+      "時態 - 現在進行式",
+      "時態 - 過去簡單式",
+      "時態 - 未來式（will / be going to）",
+      "連接詞與從屬結構 - if",
+      "連接詞與從屬結構 - and",
+      "連接詞與從屬結構 - after",
+      "連接詞與從屬結構 - before",
+      "連接詞與從屬結構 - because",
+      "介系詞與副詞 - 地點介系詞",
+      "介系詞與副詞 - 時間介系詞",
+      "介系詞與副詞 - 介系詞片語當形容詞",
+      "形容詞與比較 - 形容詞比較級",
+      "非限定動詞 - 不定詞",
+      "疑問句 - Wh- 問句"
+    ],
+    "chunk_text": "Happy Halloween Party at Julian’s Café!\n(For children between six and twelve years old and their parents)\nDate: October 31st. Time: 7 p.m. - 9 p.m.\nTickets: Children: NT$150 each/ Parents: NT$280 each.\n*If you buy tickets before October 14th, tickets will get extra 5% off.\n*If you buy more than four tickets at a time, tickets will get extra 10% off.\n*If your name is Julian, you are welcome to join the party for free.\nAfter the party, come back to Julian’s Café with your tickets for special offers:\n*Pay ten dollars, and we will treat you to a bottle of black tea.\n*Pay twenty dollars and get a can of juice.\n*Pay thirty dollars and enjoy a cup of milkshake.\n*Pay fifty dollars and enjoy a glass of milk with a piece of cake.\nWhat are you waiting for? Buy your tickets and let's have fun at the party!\nBy the way, don’t forget to put on something orange and black!\nCall Julian’s Café at 037-982-5203\nVisit our website at www.juliancafe.com\n\n1. Its October 1st, Julian Lee and Mr. and Mrs. Lee would like to go to the Halloween party. Mr. Lee is buying tickets at the café. How much are the tickets?\n(A) NT$532\n(B) NT$560\n(C) NT$639\n(D) NT$710\n\n2. What CAN’T we know from the reading?\n(A) Who is the party for?\n(B) Julian’s Café’s phone number.\n(C) The Prices of the tickets.\n(D) How to get to the Café.\n\n3. After the party, Julian and her parents went to Julian’s Café again. They used their tickets, and the picture showed how much they paid. What did they get?\n(A) 1 bottle of black tea, 1 cup of milkshake, and 1 can of juice.\n(B) 1 bottle of black tea, 1 glass of milk, 1 can of juice, and 1 piece of cake.\n(C) 1 bottle of black tea, 1 cup of milkshake, 1 glass of milk, and 1 piece of cake.\n(D) 1 cup of milkshake, 1 can of juice, 1 glass of milk, and 1 piece of cake.",
+    "filename": "./pdf/市立大灣國中 八年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "be 動詞現在式",
+      "and / but"
+    ],
+    "chunk_text": "( ) Mr. Hsu is telling an interesting story in his class, and all of his students . (Ａ) take action (Ｂ) are all ears (Ｃ) stay in shape (Ｄ) are abroad",
+    "filename": "./pdf/市立中興國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 佳音 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "未來式（will / be going to）",
+      "時間介系詞",
+      "and / but"
+    ],
+    "chunk_text": "( ) Jolin and Jay are going to hold a concert at the this Sunday, and we can’t wait to dance and sing with them! (Ａ) interest (Ｂ) pop (Ｃ) race (Ｄ) gym",
+    "filename": "./pdf/市立中興國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 佳音 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "there is / there are",
+      "and / but"
+    ],
+    "chunk_text": "( ) There are plates on the table, but we still need ten more. (Ａ) several (Ｂ) fake (Ｃ) slim (Ｄ) few",
+    "filename": "./pdf/市立中興國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 佳音 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "動名詞",
+      "be 動詞現在式"
+    ],
+    "chunk_text": "( ) For most junior high school students, making English is difficult. (Ａ) sentences (Ｂ) hearts (Ｃ) drums (Ｄ) letters",
+    "filename": "./pdf/市立中興國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 佳音 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "祈使句",
+      "未來式（will / be going to）"
+    ],
+    "chunk_text": "( ) Don’t play on Jennie. She will get angry. (Ａ) stamps (Ｂ) pieces (Ｃ) tricks (Ｄ) cocoa",
+    "filename": "./pdf/市立中興國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 佳音 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "祈使句",
+      "副詞（時間）"
+    ],
+    "chunk_text": "( ) Before we start today’s lessons, please the appfirst. (Ａ) act (Ｂ) mean (Ｃ) forget (Ｄ) download",
+    "filename": "./pdf/市立中興國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 佳音 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "過去簡單式（規則 / 不規則）",
+      "and / but"
+    ],
+    "chunk_text": "( ) My uncle got a billyesterday, and he took it to the police station. (Ａ) fake (Ｂ) crazy (Ｃ) sunny (Ｄ) deep",
+    "filename": "./pdf/市立中興國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 佳音 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "be 動詞現在式"
+    ],
+    "chunk_text": "( ) In Chinese culture, are lucky animals. (Ａ) snakes (Ｂ) worms (Ｃ) robot dogs (Ｄ) bats",
+    "filename": "./pdf/市立中興國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 佳音 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "一般動詞現在簡單式",
+      "when / before / after"
+    ],
+    "chunk_text": "( ) Brendan decides to study after he graduatesfrom senior high school. (Ａ) already (Ｂ) lately (Ｃ) abroad (Ｄ) suddenly",
+    "filename": "./pdf/市立中興國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 佳音 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "現在完成式",
+      "疑問句 Yes / No",
+      "時間介系詞"
+    ],
+    "chunk_text": "( ) Jisoo: you something before lunch? Rosé: Yes, I ate a hamburger and an apple pie half an hour ago. (Ａ) Will; eat (Ｂ) Have; eaten (Ｃ) Were; eating (Ｄ) Would; eat",
+    "filename": "./pdf/市立中興國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 佳音 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "現在完成式",
+      "Wh- 問句",
+      "How long"
+    ],
+    "chunk_text": "( ) Jungwon: have you lived in Taoyuan? Sunoo: I have lived in Taoyuan for fifteen years. (Ａ) How often (Ｂ) Who (Ｃ) How long (Ｄ) Where",
+    "filename": "./pdf/市立中興國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 佳音 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "現在完成式",
+      "Wh- 問句"
+    ],
+    "chunk_text": "( ) How Danielle since she moved to the USA? (Ａ) were; doing (Ｂ) has; been (Ｃ) did; do (Ｄ) are; doing",
+    "filename": "./pdf/市立中興國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 佳音 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "祈使句",
+      "can"
+    ],
+    "chunk_text": "( ) Dad, stop me. I can take good care of myself. (Ａ) worry about (Ｂ) worrying (Ｃ) to worry about (Ｄ) being worried about",
+    "filename": "./pdf/市立中興國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 佳音 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "使役動詞",
+      "過去簡單式（規則 / 不規則）"
+    ],
+    "chunk_text": "( ) The movie made the kids . (Ａ) scared; scary (Ｂ) scary; scary (Ｃ) scared; scared (Ｄ) scary; scared",
+    "filename": "./pdf/市立中興國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 佳音 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "感官動詞",
+      "when / before / after"
+    ],
+    "chunk_text": "( ) That’s music. When we listen to it, we all feel . (Ａ) excited; excited (Ｂ) exciting; excited (Ｃ) excited; exciting (Ｄ) exciting; exciting",
+    "filename": "./pdf/市立中興國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 佳音 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "so ... that",
+      "and / but"
+    ],
+    "chunk_text": "( ) The game is exciting many teenagers love it a lot. (Ａ) too; to (Ｂ) enough; to (Ｃ) very; that (Ｄ) so; that",
+    "filename": "./pdf/市立中興國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 佳音 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "現在完成式",
+      "and / but"
+    ],
+    "chunk_text": "( ) Jung Kook Hong Kong already, and he’ll be back in a few days. (Ａ) have arrived in (Ｂ) has been to (Ｃ) have been visiting (Ｄ) has gone to",
+    "filename": "./pdf/市立中興國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 佳音 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "現在完成式"
+    ],
+    "chunk_text": "( ) Jennie’s love for her boyfriend already, and she is waiting for the next love. (Ａ) were dead (Ｂ) have been dead (Ｃ) will be dead (Ｄ) has died",
+    "filename": "./pdf/市立中興國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 佳音 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "現在完成式",
+      "疑問句 Yes / No",
+      "否定"
+    ],
+    "chunk_text": "( ) Minji: Have you ever played baseball with your father? Hyein: No, . (Ａ) I never (Ｂ) I have never (Ｃ) I have (Ｄ) I never have",
+    "filename": "./pdf/市立中興國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 佳音 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "現在完成式",
+      "should"
+    ],
+    "chunk_text": "( ) Jake has copied homework from his classmate . He shouldn’t do it again. (Ａ) last week (Ｂ) now and then (Ｃ) as soon as possible (Ｄ) once",
+    "filename": "./pdf/市立中興國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 佳音 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "形容詞用法",
+      "副詞比較"
+    ],
+    "chunk_text": "( ) Rosé: Is Grandma to stand by herself? Lisa: That’s right. She isn’t to stand by herself. (Ａ) strong enough; too strong (Ｂ) too weak; strong enough (Ｃ) weak enough; too weak (Ｄ) too strong; weak enough",
+    "filename": "./pdf/市立中興國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 佳音 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "助動詞 can",
+      "動詞時態綜合應用"
+    ],
+    "chunk_text": "( ) The door was so heavy that the little boy push open.\n(Ａ) can’t; × (Ｂ) couldn’t; × (Ｃ) can’t; it (Ｄ) couldn’t; it",
+    "filename": "./pdf/市立中興國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 佳音 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "名詞與冠詞 a / an",
+      "形容詞用法"
+    ],
+    "chunk_text": "( ) Suga is a(n) man. He always tells lame jokes, and his friends feel bored with them.\n(Ａ) interested (Ｂ) interesting (Ｃ) boring (Ｄ) bored",
+    "filename": "./pdf/市立中興國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 佳音 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "不定詞",
+      "動詞時態綜合應用"
+    ],
+    "chunk_text": "( ) The math test was too difficult .\n(Ａ) for Hanni to finish it (Ｂ) for Haerin to do well on (Ｃ) that Danielle couldn’t do well on it (Ｄ) that Minji can’t finish it",
+    "filename": "./pdf/市立中興國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 佳音 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "形容詞用法",
+      "名詞與冠詞 the"
+    ],
+    "chunk_text": "( ) The birthday party wasn’t to Jisoo because Jimin told her in advance.\n(Ａ) surprise enough (Ｂ) enough surprised (Ｃ) a surprising (Ｄ) a surprise",
+    "filename": "./pdf/市立中興國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 佳音 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "形容詞比較級",
+      "形容詞用法",
+      "不定詞"
+    ],
+    "chunk_text": "( ) Rosé, the smartphone is for Dad for you. Why not choose a cheaper one?\n(Ａ) so expensive; to buy (Ｂ) too expensive; to buy it (Ｃ) not cheap enough; to buy (Ｄ) cheap enough; to buy it",
+    "filename": "./pdf/市立中興國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 佳音 試卷.pdf"
+  },
+  {
+    "chunk_type": "cloze_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "過去簡單式",
+      "現在進行式",
+      "不定詞",
+      "祈使句",
+      "連接詞 and",
+      "名詞與冠詞 a / an",
+      "代名詞 人稱代名詞受格",
+      "代名詞 人稱代名詞主格",
+      "形容詞用法",
+      "副詞 方式"
+    ],
+    "chunk_text": "Hi! Andy,\nHow are you? Guess where I am now? In one of the lowest places in the world! After a two-day bus ride and a one-day walk from Tausa, I finally (37) here.\nThe weather here was so hot that I drank up most of the water I brought. I was worried that there (38) no more water. Luckily, I found a small town that (39) here for hundreds of years and got help from some friendly people. You know, the most difficult part of this trip was that I had to find my own way and take care of different problems by myself. I was a little afraid before the trip, but now I’m having a good time. Let’s have coffee together after I get back. (40) you more about my trip.\nLove,\nDiana 2020.12.12\n\n( )(37) (A) get (B) will get (C) got (D) would get\n( )(38) (A) would be (B) will be (C) has been (D) is\n( )(39) (A) is (B) has been (C) will be (D) would be\n( )(40) (A) I’ll tell (B) I told (C) I’ve told (D) I’m telling",
+    "filename": "./pdf/市立中興國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 佳音 試卷.pdf"
+  },
+  {
+    "chunk_type": "cloze_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "名詞子句與關係子句",
+      "形容詞用法",
+      "名詞與冠詞 the",
+      "名詞單複數",
+      "動詞時態綜合應用"
+    ],
+    "chunk_text": "It is not (41) that dogs love digging, and it often gets the dog owners (42) . Why do most dogs love digging? Well, they’re just too excited! Here are some (43) to stop your dog from digging up the yard! First and the most important of all, take your dogs for a walk or even for a run! After a good run, your dogs will be too tired to dig. Second, (44) your dogs to dig only in some certain area. Also, give them more toys to chew. Keep them busy, so they won’t even have time to dig.\n\n( )(41) (A) report (B) news (C) sale (D) fact\n( )(42) (A) crazy (B) fake (C) real (D) boring\n( )(43) (A) tips (B) clubs (C) lessons (D) tools\n( )(44) (A) fool (B) drop (C) teach (D) steal",
+    "filename": "./pdf/市立中興國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 佳音 試卷.pdf"
+  },
+  {
+    "chunk_type": "reading_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "可數名詞與不可數名詞",
+      "名詞單複數",
+      "不定冠詞 a / an",
+      "定冠詞 the",
+      "所有格（’s / of）",
+      "不定數量詞（some, any, many, much, a few, a little, a lot of, lots of）",
+      "人稱代名詞主格",
+      "人稱代名詞受格",
+      "所有代名詞（形容詞性 / 名詞性）",
+      "反身代名詞",
+      "be 動詞現在式",
+      "be 動詞過去式",
+      "一般動詞現在簡單式",
+      "現在進行式",
+      "過去簡單式（規則 / 不規則）",
+      "can",
+      "should / could / would",
+      "Wh- 問句",
+      "which 的用法",
+      "and / but",
+      "because / if",
+      "地點介系詞",
+      "時間介系詞",
+      "副詞（方式 / 地點 / 時間 / 頻率）",
+      "頻率副詞",
+      "形容詞用法",
+      "形容詞比較級",
+      "不定詞",
+      "動名詞",
+      "現在分詞 / 過去分詞",
+      "被動語態",
+      "that + 名詞子句"
+    ],
+    "chunk_text": "Making new friends may be easy for some people, but for others, it can be the worst part of being in a new place. Luckily, there are a few easy tricks that can help you make friends. Most of the time, we show how we feel on our faces without knowing it. This means that if we’re feeling nervous, we’ll probably look that way, too. We should try to show our best side. For example, if we smile, people will think that we’re friendlier. Self-confidence is also important for making new friends. One of the best ways is to wear clothes that both show the real you and make you feel comfortable. Of course, you shouldn’t wear pajamas on your first day of school! Just be yourself—in your favorite clothes. If you don’t know how to talk with people you’ve just met, try asking them some questions about themselves. People usually enjoy talking about themselves. Ask the lady next to you how long she’s been at the company. Ask the guy behind you in class what his favorite subject is. It can take a while for deep friendships to form. Just enjoy the process of making friends.\n\n45. What is the reading mainly about?\n(A) How to build new friendships.\n(B) How to show a friendly smile.\n(C) How to create self-confidence.\n(D) How to start talking with people.\n\n46. According to the reading, which of the following is NOT true?\n(A) We should wear our most expensive clothes for self-confidence.\n(B) We should take our time making friends.\n(C) We should smile to make ourselves look nicer.\n(D) We should try to ask people questions about themselves to start conversations.",
+    "filename": "./pdf/市立中興國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 佳音 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "指示與引介結構 - there is / there are",
+      "疑問句 - Yes / No 問句"
+    ],
+    "chunk_text": "3. Are there twenty-seven students in your class?\n(A) they are (B) it is (C) there are (D) there is",
+    "filename": "./pdf/縣立溪湖國中 七年級 112 上學期 語文領域 英文 第二次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "指示與引介結構 - these / those",
+      "名詞單複數"
+    ],
+    "chunk_text": "5. ( ) ______ are different flowers in the garden.\n(A) There (B) These (C) Those (D) They",
+    "filename": "./pdf/縣立溪湖國中 七年級 112 上學期 語文領域 英文 第二次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "介系詞與副詞 - 地點介系詞"
+    ],
+    "chunk_text": "It’s ____ the toy and the pen.\n(A) on (B) around (C) under (D) between",
+    "filename": "./pdf/縣立溪湖國中 七年級 112 上學期 語文領域 英文 第二次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "不定冠詞 a / an",
+      "不定數量詞（some, any, many, much, a few, a little, a lot of, lots of）",
+      "名詞單複數"
+    ],
+    "chunk_text": "8. ( ) There’s ______ egg in the basket.\n(A) one (B) any (C) a (D) some",
+    "filename": "./pdf/縣立溪湖國中 七年級 112 上學期 語文領域 英文 第二次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "不定冠詞 a / an",
+      "不定數量詞（some, any, many, much, a few, a little, a lot of, lots of）",
+      "名詞單複數",
+      "所有格（’s / of）",
+      "指示與引介結構 - there is / there are"
+    ],
+    "chunk_text": "11. ( ) There are _________ in Eric’s pencil box.\n(A) a pen (B) any pens (C) a lot of pens (D) no pen",
+    "filename": "./pdf/縣立溪湖國中 七年級 112 上學期 語文領域 英文 第二次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "疑問句 - Wh- 問句"
+    ],
+    "chunk_text": "12. ( ) Ruby: ____ your mice?\n(A) What are (B) Where’s (C) Who is (D) Where are",
+    "filename": "./pdf/縣立溪湖國中 七年級 112 上學期 語文領域 英文 第二次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "指示與引介結構 - there is / there are",
+      "疑問句 - Yes / No 問句",
+      "名詞單複數"
+    ],
+    "chunk_text": "13. ( ) Lily: Are there any clocks in your classroom?\nSally: ________\n(A) No, there’s one. (B) Yes, they are. (C) Yes, there are two. (D) No, it’s not.",
+    "filename": "./pdf/縣立溪湖國中 七年級 112 上學期 語文領域 英文 第二次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "所有格（’s / of）",
+      "名詞與冠詞 - 可數名詞與不可數名詞"
+    ],
+    "chunk_text": "14. ( ) This is ________________ bedroom.\n(A) Sean and Jimmy (B) Sean’s and Jimmy’s (C) Sean’s and Jimmy (D) Sean and Jimmy’s",
+    "filename": "./pdf/縣立溪湖國中 七年級 112 上學期 語文領域 英文 第二次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "be 動詞現在式",
+      "名詞單複數",
+      "可數名詞與不可數名詞"
+    ],
+    "chunk_text": "3. ( ) House B is best for ________. (A) four people and two cats (B) a young lady with a big dog (C) two junior high school students (D) a father, a baby, and an old dog",
+    "filename": "./pdf/縣立溪湖國中 七年級 112 上學期 語文領域 英文 第二次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "Wh- 問句",
+      "否定句"
+    ],
+    "chunk_text": "5. ( ) What is NOT right? (A) You can walk your dog in a park near House B. (B) You can take the MRT to House A. (C) There’s a department store near House A. (D) There is a zoo beside House B.",
+    "filename": "./pdf/縣立溪湖國中 七年級 112 上學期 語文領域 英文 第二次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "can",
+      "助動詞與情態動詞",
+      "動詞原形"
+    ],
+    "chunk_text": "They can ______. (A) e-mail Mr. Brown (B) call Mrs. Wu (C) e-mail Mrs. Wu (D) call Mr. Brown",
+    "filename": "./pdf/縣立溪湖國中 七年級 112 上學期 語文領域 英文 第二次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "現在進行式",
+      "名詞單複數",
+      "be 動詞現在式"
+    ],
+    "chunk_text": "1. Look at the picture. All of them are wearing __________.\nA. uniforms\nB. glasses\nC. shoes\nD. T-shirts",
+    "filename": "./pdf/市立林園高中附設國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "be 動詞現在式",
+      "形容詞用法"
+    ],
+    "chunk_text": "2. Taking care of his children is __________. The father needs a break.\nA. surprised\nB. weak\nC. tired\nD. tiring",
+    "filename": "./pdf/市立林園高中附設國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "現在完成式",
+      "助動詞與情態動詞",
+      "動詞時態綜合應用"
+    ],
+    "chunk_text": "3. He’s already __________ his lunch.\nA. finish\nB. finishing\nC. has finished\nD. finished",
+    "filename": "./pdf/市立林園高中附設國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "現在完成式",
+      "副詞（方式 / 地點 / 時間 / 頻率）"
+    ],
+    "chunk_text": "4. These kids have visited the zoo __________.\nA. yet\nB. twice\nC. fifteen years\nD. soon",
+    "filename": "./pdf/市立林園高中附設國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "一般動詞現在簡單式",
+      "不定冠詞 a / an",
+      "可數名詞與不可數名詞",
+      "名詞單複數"
+    ],
+    "chunk_text": "5. Students on this island get a __________ when they take the bus.\nA. tip\nB. topic\nC. discount\nD. driver",
+    "filename": "./pdf/市立林園高中附設國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "be 動詞現在式",
+      "形容詞用法",
+      "介系詞與副詞"
+    ],
+    "chunk_text": "6. Amy is __________ bugs.\nA. scary of\nB. scared of\nC. scared of\nD. snack",
+    "filename": "./pdf/市立林園高中附設國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "Wh- 問句",
+      "現在完成式",
+      "介系詞與副詞"
+    ],
+    "chunk_text": "7. Which is NOT right?\nA. She has been in the hospital since September 1.\nB. Two 5-inch pizzas are larger than a 9-inch pizza.\nC. Both Carla and Nick have been to the restaurant before.\nD. In the USA, three out of every five young people use food delivery apps.",
+    "filename": "./pdf/市立林園高中附設國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "Wh- 問句",
+      "現在完成式",
+      "介系詞與副詞"
+    ],
+    "chunk_text": "8. Which is NOT right?\nA. Food delivery apps are for poor people because they don’t need to pay a lot for delivery services.\nB. Americans celebrate National French Fry Day on July thirteenth every year.\nC. Even if ugly food does not look beautiful, it still tastes good and is good for you.\nD. Sally got interested in music when she was five.",
+    "filename": "./pdf/市立林園高中附設國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "be 動詞現在式",
+      "形容詞用法"
+    ],
+    "chunk_text": "9. Julia is __________. She doesn’t like the man and his __________ jokes.\nA. bore; boring\nB. bored; bored\nC. bored; boring\nD. boring; boring",
+    "filename": "./pdf/市立林園高中附設國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "Wh- 問句",
+      "現在完成式",
+      "助動詞與情態動詞",
+      "介系詞與副詞"
+    ],
+    "chunk_text": "10. Helen: __________?\nKen: He has worked as a clerk in the shop since last year.\nA. How long has Kevin worked as a clerk in the shop\nB. When did Kevin work as a clerk in the shop\nC. How does a clerk work in the shop\nD. Why did Kevin work as a clerk in the shop last year",
+    "filename": "./pdf/市立林園高中附設國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "Yes / No 問句",
+      "動名詞",
+      "助動詞與情態動詞"
+    ],
+    "chunk_text": "11. Do you mind ________ the door? It’s really cold outside.\nA. closed\nB. closing\nC. to close\nD. close",
+    "filename": "./pdf/市立林園高中附設國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "現在完成式",
+      "副詞（方式 / 地點 / 時間 / 頻率）",
+      "助動詞與情態動詞"
+    ],
+    "chunk_text": "12. I have written to my father ________.\nA. today\nB. yesterday\nC. tomorrow\nD. two days ago",
+    "filename": "./pdf/市立林園高中附設國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "現在完成式",
+      "介系詞與副詞",
+      "動名詞"
+    ],
+    "chunk_text": "13. Talking to girls has become a terrible experience for the poor boy since __________.\nA. a beautiful girl in his class\nB. somebody calls him a nobody\nC. traveled to America and Belgium\nD. his best friend hit him",
+    "filename": "./pdf/市立林園高中附設國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "過去簡單式（規則 / 不規則）",
+      "過去進行式",
+      "未來式（will / be going to）"
+    ],
+    "chunk_text": "14. When the waiter heard the news, the cook __________ in the kitchen and did not notice it.\nA. cooked\nB. was cooking\nC. as cooked\nD. is going to cook",
+    "filename": "./pdf/市立林園高中附設國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "動名詞",
+      "不定詞",
+      "形容詞用法"
+    ],
+    "chunk_text": "15. Mr. Lin: Kids, I’ve been working for hours and have a big headache. Could you stop __________ so much noise?\nJenny and Jim: Sorry, Dad. We’ve just been too __________ about the ball game.\nA. to make; exciting\nB. making; exciting\nC. to make; excited\nD. making; excited",
+    "filename": "./pdf/市立林園高中附設國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "現在完成式"
+    ],
+    "chunk_text": "16. Annie: You’ve been a mother already? I can’t believe it!\nKathy: Come on! __________.\nAnnie: I am so surprised! It’s been ten years since I last saw you!\nKathy: Time flies. My girl is already five.\nA. I have married for six years\nB. I have got married for six years\nC. I have been married for six years\nD. I have been marrying for six years",
+    "filename": "./pdf/市立林園高中附設國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "連接詞與從屬結構",
+      "現在完成式",
+      "動名詞"
+    ],
+    "chunk_text": "18. Jay: Why do you love the clothing store so much?\nLisa: __________\nJay: Great! I can’t wait to check it out!\nA. Because they haven’t used plastic forks for a long time.\nB. Because downloading delivery apps is a little boring.\nC. Because their designs really interest and surprise me.\nD. Because I have no choice but to tip the waiters.",
+    "filename": "./pdf/市立林園高中附設國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "reading_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "過去簡單式（規則 / 不規則）",
+      "現在完成式",
+      "連接詞與從屬結構"
+    ],
+    "chunk_text": "19~21 Fear Is the Best Medicine\nDo you like reading ghost stories or watching scary movies? Do you go to haunted houses just to feel your heart jumping? Some people are like that; they like to feel scared, but why? Dr. Margee Kerr and her team have found the possible reason behind that. For years, Dr. Kerr has been studying the feeling of fear. To understand fear better, she has visited several haunted places. She also helped set up a haunted house on Halloween. More than 200 people bought tickets and agreed to be a part of the study. Dr. Kerr then studied those people’s feelings and brain activities before and after going into the haunted house. Although the haunted house was so scary that it made their hair stand on end, most people came out feeling happier and less tired. Dr. Margee Kerr and her team found out that getting scared is like doing exercise. It helps lower brain activities, so people can be less worried. The study also showed that being afraid can help put people in good mood.\n\n19. What is the reading mainly about?\nA. The fear of watching scary movies.\nB. Exciting scary movies for people to watch.\nC. The reasons behind people’s interests in being scared.\nD. The cause of people’s low brain activities when feeling scared.\n\n20. How do people feel when something “makes their hair stand on end”?\nA. They feel afraid.\nB. They feel bored.\nC. They feel happy.\nD. They feel less tired.\n\n21. (Question text missing in the provided material; omitted because insufficient information to answer.)",
+    "filename": "./pdf/市立林園高中附設國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "reading_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "be 動詞現在式",
+      "不定數量詞（some, any, many, much, a few, a little, a lot of, lots of）",
+      "介系詞與副詞（from）",
+      "Wh- 問句",
+      "助動詞 do / does / did",
+      "動詞時態綜合應用（present simple）",
+      "連接詞與從屬結構（and）",
+      "that 的用法",
+      "名詞與冠詞（可數名詞與不可數名詞）"
+    ],
+    "chunk_text": "Here is some information from another study. What do this study and the reading have in common?\nA study shows that when we watch scary movies, it helps our body burn about 113 calories.\nIt is as much as taking a thirty-minute walk.\n\n21. What do this study and the reading have in common?\nA. They both show that getting scared is a way to lose weight.\nB. They both show that understanding your fear is very important.\nC. They both show that getting scared can be good for people in a way.\nD. They both show that facing fear is a good exercise to keep the brain busy.",
+    "filename": "./pdf/市立林園高中附設國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "reading_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "現在進行式",
+      "現在完成式（have been using）",
+      "動詞時態綜合應用",
+      "不定數量詞（so many, some, many, several, a lower chance）",
+      "名詞與冠詞（可數名詞與不可數名詞, 專有名詞, 名詞單複數）",
+      "代名詞（it, they, we, it’s）",
+      "介系詞與副詞（for, of, in, with, to, from, as, about, as well as）",
+      "連接詞與從屬結構（and, but, so, that, because, if, when）",
+      "助動詞 can, have to, ask (祈使句)",
+      "that 的用法（名詞子句）",
+      "形容詞與比較（good, better, lower）",
+      "特殊動詞（make, help, protect, prevent, lower, have）",
+      "非限定動詞（to make, to get, to treat）",
+      "分詞與語態（present participle “cutting down”, past participle “treated”)"
+    ],
+    "chunk_text": "Green Tea\nGreen tea has so many health benefits, and some people think of it as a form of medicine. Perhaps that is why Chinese have been using it for more than 4,000 years to treat all kinds of body problems. Today, scientists know that in green tea there are several substances good to health.\nFirst of all, catechin is helpful for cutting down on cancer. It protects the body from cancer‑causing substances and slows the growth of cholesterol levels and prevents serious health questions such as heart attacks and heart disease.\nSecond, caffeine makes the heart beat faster and the body more active. It was one thought that caffeine was not truly healthy, but studies say that there are some benefits to drinking caffeine. Among these studies, scientists have happily found that caffeine has something to do with a lower chance of getting Parkinson’s disease and liver disease. Yet, caffeine also has some side effects. It can make people too excited or angry easily, so doctors ask teenagers not to have more than one small cup of coffee a day.\nNext, vitamin C is important to humans, but the human body itself cannot make enough number. So we have to get it through food and drink. The vitamin has a hand in building up protection from colds and the flu. Besides, it helps get well from those diseases sooner.\nLast, theanine is another good substance found in tea. Scientists have shown that it can lower stress, both mind and body, and make thinking stronger. We can also use it for preventing Alzheimer’s disease.\nAs you can see, green tea has many great values. Drinking it may help you stay healthy. Of course, as with any healthy substance, it is important to check if there are any side effects as well.\n\n22. What is the passage mainly about?\nA. The use of green tea in Chinese medicine\nB. Reasons to drink green tea instead of coffee\nC. Some effects of drinking green tea\nD. Why scientists are interested in studying green tea\n\n23. The main purpose of the second paragraph is to\nA. talk about the side effects of catechin\nB. talk about the health benefits of catechin\nC. give the knowledge of the medical use of green tea\nD. give examples of some substances in green tea\n\n24. The words \"has a hand in\" in line 11 are closest in meaning to\nA. throws away\nB. hands in\nC. accepts\nD. takes part in\n\n25. Which is NOT true about caffeine?\nA. It helps prevent heart attacks and heart disease.\nB. It makes heart beat faster and excites humans.\nC. It lowers the chance of getting Parkinson’s disease and liver disease.\nD. People used to believe it was not very good for us.",
+    "filename": "./pdf/市立林園高中附設國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "Wh- 問句",
+      "介系詞與副詞",
+      "名詞與冠詞"
+    ],
+    "chunk_text": "26. What are the words in italicsfor?\nAFor listing the substances in green tea.\nBFor ordering health effects of green tea.\nCFor listing several types of medicine.\nDFor telling side effects of Chinese medicine.",
+    "filename": "./pdf/市立林園高中附設國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "reading_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "名詞與冠詞",
+      "代名詞",
+      "動詞基本句型",
+      "時態",
+      "助動詞與情態動詞",
+      "連接詞與從屬結構",
+      "介系詞與副詞",
+      "形容詞與比較",
+      "名詞子句與關係子句"
+    ],
+    "chunk_text": "27~30  The Difficulty oF Becoming a K-Pop Star\nMany teenagers in South Korea dream of being K-pop stars. 27. , before they can have a chance of becoming\nsuccessful, they must become trainees first. That, in fact, 28. .\nFirst, these teenagers have to spend years training hard. They must learn to sing, dance, and act, and still find time\nto do their schoolwork. Second, they’re away from their families, so they feel lonely from time to time. Third, many trainees\ndon’t have much freedom because they have to follow orders from their companies. For example, 29. because they\nhave to watch their weight. Finally, training is expensive. In many cases, the companies pay for the cost of training first, and\nthe trainees pay them back later. Sadly, most trainees never become rich and famous K-pop stars, and yet they still owe\ntheir company a lot of money.\n30. . Many of them give up their dreams because they can no longer deal with all the pressure. If you are\ninterested in being a K-pop star, make sure you really want it. If that’s not the case, you may just find your dream fading\naway as you grow older.\nSouth Korea  trainee  freedom  company  case  owe  pressure  fade away \n27.ABesides BHowever CIn short DLuckily\n28.Ais not as difficult as we thought Bis not as expensive as they are\nCis not as hard-working as possible Dis not as easy as it may sound\n29.Athey can’t eat too much Bthey can’t watch movies\nCthey can’t go shopping Dthey can’t make friends\n30.AK-pop trainees do not have any dreams\nBK-pop trainees won’t give up dreams\nCK-pop trainees want to have an easy life.\nDK-pop trainees do not have an easy life",
+    "filename": "./pdf/市立林園高中附設國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "reading_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "時態",
+      "現在完成式",
+      "過去簡單式（規則 / 不規則）",
+      "一般動詞現在簡單式",
+      "代名詞",
+      "介系詞與副詞",
+      "連接詞與從屬結構",
+      "感官動詞",
+      "形容詞與比較"
+    ],
+    "chunk_text": "31~32\nDear Darren,\nHello from California! Sorry for not writing to you sooner 31. .\nI’ve been here for a month and had the chance to do many cool things. For example, I’ve finally visited the Disneyland Park.\nAs you know, visiting there has been a dream of mine since I was a little girl. It was even bigger and better than I imagined.\nI can’t wait to take you there when you come to see me. Besides, I hiked up to the Hollywood Sign, stood on the Hollywood Walk\nof Fame, and saw some movie stars’ homes. However, Venice Beach was the best. I went to the Music & Art Festival and met so\nmany cool people there. OK, I’ve spent too much time on this already. 32. Miss you lots!\nLove,\nLucille\n31.A, and I haven’t thought of you once\nB, so I didn’t plan to do so\nC, or I won’t be talking to you later\nDbecause I’ve been really busy\n32.AWhere should you be and spend your vacation?\nBI would love to hear back from you if you have time.\nCIt’s not easy to tell you this, but I never want to see you again.\nDIt’s best we say goodbye to each other, so we can move on with our lives.",
+    "filename": "./pdf/市立林園高中附設國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "cloze_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "名詞與冠詞 - 可數名詞與不可數名詞",
+      "名詞與冠詞 - 名詞單複數",
+      "名詞與冠詞 - 不定冠詞 a / an",
+      "名詞與冠詞 - 定冠詞 the",
+      "代名詞 - 人稱代名詞主格",
+      "代名詞 - 人稱代名詞受格",
+      "代名詞 - 所有代名詞（形容詞性 / 名詞性）",
+      "動詞基本句型 - be 動詞現在式",
+      "動詞基本句型 - 一般動詞現在簡單式",
+      "動詞基本句型 - 第三人稱單數現在式",
+      "時態 - 現在簡單式",
+      "時態 - 過去簡單式（規則 / 不規則）",
+      "時態 - 現在完成式",
+      "助動詞與情態動詞 - do / does / did",
+      "連接詞與從屬結構 - and / but",
+      "介系詞與副詞 - 時間介系詞 (in, at, of)",
+      "介系詞與副詞 - 地點介系詞 (in, at)",
+      "形容詞與比較 - 形容詞用法"
+    ],
+    "chunk_text": "I. ( 1 10 )\n1. ____ drink\n2. ____ give\n3. ____ New Year’s Day is a public holiday. Most people don’t go to school or work that day.\n4. ____ The lakes here freeze in winter.\n5. ____ It’s common to see monkeys in this area. Look! There are monkeys in the trees there.\n6. ____ The soldier died at the age of 25.\n7. ____ Alex waved at us and said goodbye.\n8. ____ These cookies have been popular in the USA since the early 19th century.\n9. ____ The office building is in a good location.\n10. ____ Our new cook has gotten one or two orders wrong today.",
+    "filename": "./pdf/市立林園高中附設國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "cloze_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "名詞與冠詞 - 定冠詞 the",
+      "名詞與冠詞 - 不定冠詞 a / an",
+      "名詞與冠詞 - 可數名詞與不可數名詞",
+      "代名詞 - 人稱代名詞主格",
+      "代名詞 - 反身代名詞",
+      "動詞基本句型 - be 動詞現在式",
+      "動詞基本句型 - 一般動詞現在簡單式",
+      "動詞基本句型 - 第三人稱單數現在式",
+      "時態 - 現在簡單式",
+      "時態 - 現在完成式",
+      "助動詞與情態動詞 - can",
+      "助動詞與情態動詞 - should / could / would",
+      "連接詞與從屬結構 - but also",
+      "連接詞與從屬結構 - and",
+      "介系詞與副詞 - 時間介系詞 (since, more)",
+      "形容詞與比較 - 形容詞比較級",
+      "形容詞與比較 - 副詞比較"
+    ],
+    "chunk_text": "III. ( 1 10 )\n1.\nIt’s _________ one of ____________ successful pizza places on _____________ ____________.\n2.\n________ a word, food delivery apps ___________ not ___________ become more ___________ but also ___________ our lives ___________.",
+    "filename": "./pdf/市立林園高中附設國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "be 動詞現在式",
+      "形容詞用法",
+      "介系詞片語當形容詞"
+    ],
+    "chunk_text": "Joe does well at school and is always polite to his teachers. His parents are _____ him.\n(A) boring to\n(B) worried about\n(C) proud of\n(D) good at",
+    "filename": "./pdf/縣立溪湖國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "形容詞最高級",
+      "形容詞用法"
+    ],
+    "chunk_text": "Tim is the most ___ student in my class. You can see him study at any time.\n(A) important\n(B) hard-working\n(C) possible\n(D) interesting",
+    "filename": "./pdf/縣立溪湖國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "可數名詞與不可數名詞",
+      "名詞單複數"
+    ],
+    "chunk_text": "Kevin has only enough money for the bag or the pants. That is a hard ___ because he likes them both.\n(A) gift\n(B) trick\n(C) rule\n(D) choice",
+    "filename": "./pdf/縣立溪湖國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "cloze_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "現在完成式",
+      "一般動詞現在簡單式"
+    ],
+    "chunk_text": "1. I ____ to Japan many times, and I plan to go there. 2. Have you taken out the garbage? (yet) again next month. (Ａ) go (Ｂ) am (Ｃ) have been (Ｄ) have gone",
+    "filename": "./pdf/縣立溪湖國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "cloze_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "形容詞用法",
+      "過去分詞"
+    ],
+    "chunk_text": "The party wasn’t ____ to Kelly because Kevin ____ her several days ago. (Ａ) surprise (Ｂ) surprised (Ｃ) surprising (Ｄ) a surprising",
+    "filename": "./pdf/縣立溪湖國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "cloze_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "助動詞 do / does / did",
+      "現在完成式",
+      "過去簡單式"
+    ],
+    "chunk_text": "Jim: ____ you taken the medicine yet? Sue: Yes, I ____ it half an hour ago. (Ａ) Did; took (Ｂ) Have; have taken (Ｃ) Did; have taken (Ｄ) Have; took",
+    "filename": "./pdf/縣立溪湖國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "cloze_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "現在完成式",
+      "副詞（時間）"
+    ],
+    "chunk_text": "I have read that book. It’s so interesting. (Ａ) already (Ｂ) yet (Ｃ) ever (Ｄ) never",
+    "filename": "./pdf/縣立溪湖國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "cloze_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "連接詞與從屬結構",
+      "so...that",
+      "too...to"
+    ],
+    "chunk_text": "Zack is scared of Mr. Chen ____ him any questions. (Ａ) so; that (Ｂ) too; to (Ｃ) enough; to (Ｄ) both; and",
+    "filename": "./pdf/縣立溪湖國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "cloze_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "too...to",
+      "so...that"
+    ],
+    "chunk_text": "The old man is weak ____ he stand. Last week, I ____ terribly on my exams, and my parents were angry, so we ____ a serious ____. (Ａ) too; can’t (Ｂ) so; can (Ｃ) so; can’t (Ｄ) very; can",
+    "filename": "./pdf/縣立溪湖國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "cloze_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "形容詞用法",
+      "介系詞片語當形容詞"
+    ],
+    "chunk_text": "I want to watch all his movies, and I think I’ll never feel ____ them. (Ａ) bored with (Ｂ) boring at (Ｃ) boring with (Ｄ) worried at",
+    "filename": "./pdf/縣立溪湖國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "cloze_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "so...that"
+    ],
+    "chunk_text": "The movie was ____ that the students kept talking about it. (Ａ) so exciting (Ｂ) so excited (Ｃ) enough exciting (Ｄ) too exciting",
+    "filename": "./pdf/縣立溪湖國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "cloze_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "enough to"
+    ],
+    "chunk_text": "The house is big enough for a family of three ____ comfortably. (Ａ) lives in (Ｂ) to live in (Ｃ) living in (Ｄ) lived",
+    "filename": "./pdf/縣立溪湖國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "reading_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "可數名詞與不可數名詞",
+      "名詞單複數",
+      "不定冠詞 a / an",
+      "定冠詞 the",
+      "所有格 ’s / of",
+      "不定數量詞 some",
+      "不定數量詞 any",
+      "不定數量詞 many",
+      "不定數量詞 much",
+      "不定數量詞 a lot of",
+      "不定數量詞 lots of",
+      "人稱代名詞主格",
+      "人稱代名詞受格",
+      "所有代名詞（形容詞性）",
+      "所有代名詞（名詞性）",
+      "反身代名詞",
+      "不定代名詞",
+      "whose 的用法",
+      "be 動詞現在式",
+      "be 動詞過去式",
+      "一般動詞現在簡單式",
+      "第三人稱單數現在式",
+      "助動詞 do / does / did",
+      "現在完成式",
+      "過去簡單式（規則 / 不規則）",
+      "未來式（will / be going to）",
+      "and / but / so",
+      "because",
+      "in",
+      "at",
+      "with",
+      "for",
+      "of",
+      "to",
+      "across",
+      "形容詞用法",
+      "形容詞比較級",
+      "形容詞最高級",
+      "副詞（方式 / 地點 / 時間 / 頻率）",
+      "被動語態"
+    ],
+    "chunk_text": "Have you ever tried fortune cookies? In fact, they’re not just _____ _____ _____ _____ _____ cookies. Let’s learn more about them. _____ _____ _____ _____ _____. It has been a long tradition for the Japanese to make _____ _____ _____ _____ _____ cookies with eggs, butter, sugar, and flour. Around the 1900s, they began to put little notes in cookies to tell a person’s fortune. Since then, they have been a part of the food culture there. With this tradition in mind, Makoto Hagiwara started to make fortune cookies in the USA. Before the 1950s, bakers often made fortune cookies either with their hands or with chopsticks, so it took them a long time to make the cookies. That changed when Shuck Yee, a Chinese American, invented a machine to make the cookies faster. This made them popular at Chinese restaurants across the USA. Today, many Chinese restaurants in the USA serve fortune cookies at the end of a meal. They are well‑known not for their taste, but for their sayings. Here are some common fortunes:\n\n1. What makes fortune cookies popular?\n   (A) Their taste.\n   (B) Their color.\n   (C) Their shape.\n   (D) Their sayings.\n\n2. What does “Dig your well before you are thirsty” mean?\n   (A) Work hard and play hard.\n   (B) Hard work brings good luck.\n   (C) There are two sides to every question.\n   (D) You need to prepare yourself for the future.",
+    "filename": "./pdf/縣立溪湖國中 九年級 112 上學期 語文領域 英文 第一次段考 期中考 康軒 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "and / but",
+      "一般動詞現在簡單式"
+    ],
+    "chunk_text": "( ) 1. Josh planned to make a trip to New York and ________ some of his friends there.\n(A) visit (B) take (C) worry (D) learn",
+    "filename": "./pdf/市立林園高中附設國中 八年級 112 上學期 語文領域 英文 第三次段考 期末考 南一 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "不定冠詞 a / an",
+      "可數名詞與不可數名詞",
+      "名詞單複數",
+      "介系詞與副詞"
+    ],
+    "chunk_text": "( ) 2. Ryan chose to live in a big _________like Taipei.\n(A) city (B) restroom (C) department store (D) photo",
+    "filename": "./pdf/市立林園高中附設國中 八年級 112 上學期 語文領域 英文 第三次段考 期末考 南一 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "不定冠詞 a / an",
+      "可數名詞與不可數名詞",
+      "名詞單複數",
+      "介系詞與副詞"
+    ],
+    "chunk_text": "( ) 3. With a _________, you can even print a house.\n(A) visitor (B) guitar (C) lamp (D) 3D printer",
+    "filename": "./pdf/市立林園高中附設國中 八年級 112 上學期 語文領域 英文 第三次段考 期末考 南一 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "介系詞與副詞",
+      "可數名詞與不可數名詞",
+      "名詞單複數"
+    ],
+    "chunk_text": "( ) 4. People in Taiwan like to pray at _________.\n(A) dreams (B) temples (C) keychains (D) dinner",
+    "filename": "./pdf/市立林園高中附設國中 八年級 112 上學期 語文領域 英文 第三次段考 期末考 南一 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "未來式（will / be going to）",
+      "Yes / No 問句"
+    ],
+    "chunk_text": "( ) 5. A: ________ Jenny _________ to school the day after tomorrow?\nB: Of course! she will.\n(A) Will; going (B) Will; go (C) Is; go (D) Is; to go",
+    "filename": "./pdf/市立林園高中附設國中 八年級 112 上學期 語文領域 英文 第三次段考 期末考 南一 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "Wh- 問句",
+      "助動詞 do / does / did",
+      "一般動詞現在簡單式"
+    ],
+    "chunk_text": "( ) 6. A: How much _________ the umbrella ____?\nB: NT 199 dollars.\n(A) does; cost (B) is; cost (C) does, spend (D) is; spend",
+    "filename": "./pdf/市立林園高中附設國中 八年級 112 上學期 語文領域 英文 第三次段考 期末考 南一 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "Wh- 問句",
+      "未來式（will / be going to）",
+      "一般動詞現在簡單式"
+    ],
+    "chunk_text": "( ) 7. A: _________ will I spend losing ten kilograms in your class?\nB: It’ll _________ you about three months.\n(A) How much; cost (B) How much; take (C) How long, spend (D) How long; take",
+    "filename": "./pdf/市立林園高中附設國中 八年級 112 上學期 語文領域 英文 第三次段考 期末考 南一 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "be 動詞現在式",
+      "動名詞"
+    ],
+    "chunk_text": "( ) 8. Playing cellphone games ________ popular with high school students.\n(A) is (B) are (C) being (D) to be",
+    "filename": "./pdf/市立林園高中附設國中 八年級 112 上學期 語文領域 英文 第三次段考 期末考 南一 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "動名詞",
+      "現在分詞 / 過去分詞"
+    ],
+    "chunk_text": "( ) 9. It usually takes my father fifteen minutes _________ to his office every day.\n(A) walking (B) walk (C) to walk (D) walked",
+    "filename": "./pdf/市立林園高中附設國中 八年級 112 上學期 語文領域 英文 第三次段考 期末考 南一 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "感嘆句",
+      "and / but"
+    ],
+    "chunk_text": "( ) 10. Sally: Many foreign visitors like Taiwan because it’s safe and convenient.\nSteve: _________ What else draws visitors to Taiwan?\n(A) But is that all? (B) How do visitors like Taiwan? (C) What’s more. (D) Like what?",
+    "filename": "./pdf/市立林園高中附設國中 八年級 112 上學期 語文領域 英文 第三次段考 期末考 南一 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "and / but",
+      "副詞（方式 / 地點 / 時間 / 頻率）"
+    ],
+    "chunk_text": "( ) 11. Penny: People like to visit the Chimei Museum in Tainan. In the museum, people can watch artworks in the show room and have a cup of coffee.\nPeggy: _________, they can take pictures and have a picnic outside the museum.\n(A) Besides (B) By the way (C) Of course (D) Guess what",
+    "filename": "./pdf/市立林園高中附設國中 八年級 112 上學期 語文領域 英文 第三次段考 期末考 南一 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "一般動詞現在簡單式",
+      "不定詞"
+    ],
+    "chunk_text": "( ) 12. Ruby: Where do you plan to visit during your trip to Taiwan?\nTeresa: _________\n(A) I visited my grandparents last time when I went to Taiwan.\n(B) I stayed at my friend’s house yesterday.\n(C) I plan to visit many night markets during my trip to Taiwan.\n(D) I started learning Taiwanese when I was five.",
+    "filename": "./pdf/市立林園高中附設國中 八年級 112 上學期 語文領域 英文 第三次段考 期末考 南一 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "should / could / would",
+      "未來式（will / be going to）",
+      "不定詞",
+      "祈使句",
+      "be 動詞現在式",
+      "所有代名詞（名詞性）"
+    ],
+    "chunk_text": "( ) 13. A: I forgot to bring my umbrella. B: _________\n(A) You should get a new one! It’s going to rain.\n(B) That umbrella is mine.\n(C) Don’t use my umbrella.\n(D) It’s good to have an umbrella with you.",
+    "filename": "./pdf/市立林園高中附設國中 八年級 112 上學期 語文領域 英文 第三次段考 期末考 南一 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "can",
+      "Wh- 問句",
+      "地點介系詞",
+      "一般動詞現在簡單式"
+    ],
+    "chunk_text": "( ) 14. Tina: What can people do in the dining area in a convenience store?\nTim: ________ For example, they can eat tea eggs and get a cup of coffee.\n(A) They can use the restroom for free.\n(B) They can get train tickets.\n(C) They can buy a hot meal.\n(D) They can make friends.",
+    "filename": "./pdf/市立林園高中附設國中 八年級 112 上學期 語文領域 英文 第三次段考 期末考 南一 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "感嘆句"
+    ],
+    "chunk_text": "( ) 15.\n(A) What a surprise! (B) Guess what! (C) You bet. (D) Why not?",
+    "filename": "./pdf/市立林園高中附設國中 八年級 112 上學期 語文領域 英文 第三次段考 期末考 南一 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "be 動詞現在式",
+      "一般動詞現在簡單式"
+    ],
+    "chunk_text": "( ) 16.\n(A) is (B) has (C) are (D) make",
+    "filename": "./pdf/市立林園高中附設國中 八年級 112 上學期 語文領域 英文 第三次段考 期末考 南一 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "感嘆句",
+      "Wh- 問句"
+    ],
+    "chunk_text": "( ) 17.\n(A) You bet. (B) Guess what! (C) Like what? (D) What else?",
+    "filename": "./pdf/市立林園高中附設國中 八年級 112 上學期 語文領域 英文 第三次段考 期末考 南一 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "未來式（will / be going to）",
+      "when / before / after",
+      "一般動詞現在簡單式"
+    ],
+    "chunk_text": "( ) 18.\n(A) Be careful when the train arrives.\n(B) It will arrive at five.\n(C) I will get my train ticket.\n(D) It will be raining later.",
+    "filename": "./pdf/市立林園高中附設國中 八年級 112 上學期 語文領域 英文 第三次段考 期末考 南一 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "介系詞",
+      "名詞單複數"
+    ],
+    "chunk_text": "( ) 19.\n(A) a famous restaurant for dinner\n(B) a convenience store for a hot dog\n(C) a department store for a hat\n(D) a Makeup Class for key chains",
+    "filename": "./pdf/市立林園高中附設國中 八年級 112 上學期 語文領域 英文 第三次段考 期末考 南一 試卷.pdf"
+  },
+  {
+    "chunk_type": "single_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "不定詞",
+      "動名詞"
+    ],
+    "chunk_text": "( ) 20.\n(A) wait (B) to wait (C) for waiting (D) waiting",
+    "filename": "./pdf/市立林園高中附設國中 八年級 112 上學期 語文領域 英文 第三次段考 期末考 南一 試卷.pdf"
+  },
+  {
+    "chunk_type": "cloze_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "be 動詞現在式",
+      "一般動詞現在簡單式",
+      "助動詞 should",
+      "不定詞",
+      "and / but",
+      "不定數量詞（some, any, many, much, a few, a little, a lot of, lots of）"
+    ],
+    "chunk_text": "Visitors have little (21) when they walk on the streets, even late at night. Besides, most people here are kind and friendly. When a foreigner needs help, there is always someone there to (22). A lot of foreigners love Taiwan. Taiwanese, we should also look at the good things of our country and (23) them.\n\n( ) 21.\n(A) think about (B) to worry about (C) to go on (D) prepare for\n\n( ) 22.\n(A) show them around\n(B) give them big hands\n(C) lend a hand\n(D) give them a ride\n\n( ) 23.\n(A) be proud of (B) by the end of (C) come true (D) lend a hand",
+    "filename": "./pdf/市立林園高中附設國中 八年級 112 上學期 語文領域 英文 第三次段考 期末考 南一 試卷.pdf"
+  },
+  {
+    "chunk_type": "reading_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "Wh- 問句",
+      "Yes / No 問句",
+      "be 動詞現在式",
+      "一般動詞現在簡單式",
+      "助動詞 can",
+      "形容詞比較級",
+      "介系詞與副詞",
+      "and / but",
+      "because"
+    ],
+    "chunk_text": "1.\nConvenient Taipei\nHow do visitors get around in Taipei when they come to this city? Taxis are convenient but maybe too expensive. Taking a bus is less expensive but not as convenient because traffic can be terrible sometimes. Can visitors travel around Taipei in a cheap and convenient way? Yes, by taking the metro.\n\nTaking the metro is very convenient for visitors. The stations are close to many famous places around the city. For example, there are stations near Taipei 101, Shilin Night Market, and Tamsui Old Street. It only takes a little time and money to travel from one place to another. Besides, it’s very clean and comfortable. Visitors can do some reading or get some sleep on the metro between stations.\n\nTaipei is a wonderful city to spend time in. Visitors can enjoy their stay with its convenient and safe metro ride.\n\n( ) 24. Where might people read this article?\n(A) In storybooks. (B) On train tickets. (C) In travel guide books. (D) In cellphone messages.\n\n( ) 25. According to the reading, why can visitors enjoy their stay in Taipei?\n(A) Because the metro is safe and convenient.\n(B) Because the city is very clean and comfortable.\n(C) Because there are many famous places in the city.\n(D) Because there are many ways to travel around the city.\n\n( ) 26. According to the reading, what can visitors do on the metro between stations?\n(A) Take pictures of the city.\n(B) Watch movies on their phones.\n(C) Read books or take a break.\n(D) Chat with friends.",
+    "filename": "./pdf/市立林園高中附設國中 八年級 112 上學期 語文領域 英文 第三次段考 期末考 南一 試卷.pdf"
+  },
+  {
+    "chunk_type": "reading_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "專有名詞",
+      "可數名詞與不可數名詞",
+      "名詞單複數",
+      "不定冠詞 a / an",
+      "定冠詞 the",
+      "人稱代名詞主格",
+      "人稱代名詞受格",
+      "be 動詞現在式",
+      "一般動詞現在簡單式",
+      "and / but",
+      "介系詞與副詞"
+    ],
+    "chunk_text": "Bee and butterfly live in Apple City, on Fruit Island. There are five train lines on this island. Below is a map in the Apple City train station. The number inside each station circle is the ticket price from the Apple City train station to that station. For example, the ticket price is $6 from the Apple City to Papaya City train station.\n\n( ) 27. Bee and Butterfly are now at the Apple City train station. They are going to Strawberry for the Honey Festival. How much does it cost them to pay for their train tickets in total?\n(A) $27. (B) $49. (C) $34. (D) $51.\n\n( ) 28. Monkey lives in Pear. Today, he wants to go to Grape for his uncle’s music show. Which train line WON’T he need to take?\n(A) Line 1. (B) Line 2. (C) Line 3. (D) Line 4.\n\n( ) 29. Ashley and her parents live in Guava. Today, they want to take a train to Banana for a short trip. How much do they have to spend?\n(A) $81. (B) $96. (C) $108. (D) $117.\n\n( ) 30. Which one is Not true?\n(A) There are two train stations on the Line 5.\n(B) It costs twenty dollars to go from Apple to Orange.\n(C) Papaya and Lemon are on different train lines.\n(D) There are four train lines between Guava and Banana.",
+    "filename": "./pdf/市立林園高中附設國中 八年級 112 上學期 語文領域 英文 第三次段考 期末考 南一 試卷.pdf"
+  },
+  {
+    "chunk_type": "reading_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "專有名詞",
+      "可數名詞與不可數名詞",
+      "名詞單複數",
+      "不定冠詞 a / an",
+      "定冠詞 the",
+      "所有格（’s / of）",
+      "所有代名詞（形容詞性 / 名詞性）",
+      "be 動詞現在式",
+      "一般動詞現在簡單式",
+      "助動詞 do / does / did",
+      "and / but",
+      "介系詞與副詞",
+      "形容詞用法"
+    ],
+    "chunk_text": "Our Houses, Your Wonderful Choice\nOur houses are next to a metro station. There is a police station, a big park, a department store, and a famous high school nearby. It is safe and convenient to live in this neighborhood. We built the houses with strong materials, so you don’t need to worry when typhoons or earthquakes hit. What’s more, our houses are also comfortable to live in. There is a big swimming pool and a beautiful garden with a modern design next to every house.\n\nDo you want a dream house? What are you waiting for? Pick up your phone and call our super salesman, Kevin, at 0800-123-123.\n\n( ) 31. Which one is Not true?\n(A) It is very safe around these houses.\n(B) The houses are next to the bus station.\n(C) It’s easy to go shopping near the houses.\n(D) There is a garden and a swimming pool next to every house.\n\n( ) 32. What does Kevin sell?\n(A) Houses.\n(B) Gardens.\n(C) Swimming pools.\n(D) Strong materials.",
+    "filename": "./pdf/市立林園高中附設國中 八年級 112 上學期 語文領域 英文 第三次段考 期末考 南一 試卷.pdf"
+  },
+  {
+    "chunk_type": "reading_question",
+    "level": "junior_high",
+    "grammar_points": [
+      "可數名詞與不定冠詞 a / an",
+      "定冠詞 the",
+      "所有格（’s / of）",
+      "人稱代名詞主格",
+      "人稱代名詞受格",
+      "所有代名詞（形容詞性 / 名詞性）",
+      "be 動詞現在式",
+      "be 動詞過去式",
+      "一般動詞現在簡單式",
+      "一般動詞過去簡單式",
+      "第三人稱單數現在式",
+      "助動詞 can",
+      "助動詞 could",
+      "連接詞與從屬結構 - and / but",
+      "連接詞與從屬結構 - when / before / after",
+      "介系詞與副詞 - 地點介系詞",
+      "介系詞與副詞 - 時間介系詞",
+      "介系詞與副詞 - 介系詞片語當形容詞",
+      "不定詞"
+    ],
+    "chunk_text": "Mr. Stubbs is a special alligator. He has no tail. He lost his tail when some bad guys tried to sell him to another country. From then on, Mr. Stubbs couldn’t swim or move like before. Life was hard for him. Without a tail, it was not easy for Mr. Stubbs to find food or live with other alligators.\nDr. Justin Georgi, an animal doctor, found Mr. Stubbs and lent him a hand. In 2013, Dr. Georgi used a special kind of material to make a new tail for Mr. Stubbs. With his new tail, Mr. Stubbs could swim and move like other alligators.\nBut as time went by, the old tail was too small for Mr. Stubbs. This time, Dr. Georgi studied Mr. Stubbs’ body and made another tail with a 3D printer. Mr. Stubbs can use this 3D tail for a long time. When this 3D tail is too small for him later, Dr. Georgi can just print a new one for him.\n\n33. What is the main idea of this reading?\n(A) 3D printing can help animals.\n(B) Only doctors can use 3D printing.\n(C) 3D printing can help more people.\n(D) People used 3D printing for the first time in 2013.\n\n34. Why did Mr. Stubbs the alligator lose his tail?\n(A) Mr. Stubbs lost it in a swimming pool.\n(B) The doctors wanted to study his tail, so they took it away.\n(C) Mr. Stubbs was not careful when he moved across the street.\n(D) There were some bad guys trying to hurt Mr. Stubbs.\n\n35. What will Dr. Georgi do when Mr. Stubbs’s 3D tail becomes too small?\n(A) Leave Mr. Stubbs without a tail.\n(B) Use an old material for the tail.\n(C) Make a new tail with a 3D printer.\n(D) Find another new tail in a river.",
+    "filename": "./pdf/市立林園高中附設國中 八年級 112 上學期 語文領域 英文 第三次段考 期末考 南一 試卷.pdf"
   }
 ]
