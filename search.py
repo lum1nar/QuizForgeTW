@@ -27,7 +27,8 @@ index = faiss.read_index("exam_chunks.faiss")
 # 2️⃣ 定義你的 prompt
 # prompt = "九年級 上學期 第二次段考"
 # prompt = "未來式"
-prompt = "reading_questions"
+# prompt = "reading_questions"
+prompt = "被動語態"
 
 # 3️⃣ 將 prompt 轉成向量
 query_vec = embed_text(prompt)

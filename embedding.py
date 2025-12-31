@@ -9,6 +9,7 @@ EMBEDDINGMODEL = "embeddinggemma"
 # EMBEDDINGMODEL = "qwen3-embedding:4b"
 # EMBEDDINGMODEL = "nomic-embed-text:latest"
 
+
 def embed_text(text, model=EMBEDDINGMODEL):
     resp = requests.post(
         API_URL,
@@ -17,6 +18,7 @@ def embed_text(text, model=EMBEDDINGMODEL):
     resp.raise_for_status()
     return resp.json()["embeddings"]
     # return resp.json()
+
 
 with open("./all_chunks.json", "r", encoding="utf-8") as f:
     chunks = json.load(f)
