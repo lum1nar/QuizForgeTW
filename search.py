@@ -1,21 +1,7 @@
 import faiss
-import requests
 import numpy as np
 import json
-
-API_URL = "http://localhost:11434/api/embed"
-EMBEDDINGMODEL = "embeddinggemma"
-# EMBEDDINGMODEL = "qwen3-embedding:4b"
-# EMBEDDINGMODEL = "nomic-embed-text:latest"
-
-def embed_text(text, model=EMBEDDINGMODEL):
-    resp = requests.post(
-        API_URL,
-        json={"model": model, "input": text},
-    )
-    resp.raise_for_status()
-    return resp.json()["embeddings"]
-    # return resp.json()
+from utils import embed_text
 
 # open matadata
 with open("exam_chunks_meta.json", "r", encoding="utf-8") as f:
@@ -25,10 +11,7 @@ with open("exam_chunks_meta.json", "r", encoding="utf-8") as f:
 index = faiss.read_index("exam_chunks.faiss")
 
 # 2️⃣ 定義你的 prompt
-# prompt = "九年級 上學期 第二次段考"
-# prompt = "未來式"
-# prompt = "reading_questions"
-prompt = "被動語態"
+prompt = input("請輸入想搜尋的內容")
 
 # 3️⃣ 將 prompt 轉成向量
 query_vec = embed_text(prompt)

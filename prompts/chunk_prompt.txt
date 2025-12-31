@@ -1,5 +1,3 @@
-def generate_prompt(content, difficulty_level):
-    return f"""
 你是一個英文教學專家，並負責題目切分與結構化標註（chunking）系統。
 
 【任務目標】
@@ -15,18 +13,22 @@ def generate_prompt(content, difficulty_level):
 7. 聽力題目(即沒有題幹，只有選項的題目)，請直接跳過
 8. 嚴格區分 chunk 類型，先檢查是不是 cloze 或者 reading，如果是，把整篇文章 + 所有對應題目放在同一個 chunk
 9. 請不要生成任何不包含 passage 的 reading_question，否則學生將無法判斷答案
-10. 通第 9 點， cloze_question 要必須包含 passage，否則請不要生成
+10. 同第 9 點， cloze_question 要必須包含 passage，否則請不要生成
+11. 檢查 chunk_text 中的資訊是否足以選出答案，如果不行，請刪除此 chunk
+12. 檢查 chunk_text 中的資訊是否足以選出答案，如果不行，請刪除此 chunk
+13. 檢查 chunk_text 中的資訊是否足以選出答案，如果不行，請刪除此 chunk
 
-【Chunk 類型】
+【Chunk 類型】 
 - single_question
 - cloze_question  # 整題文章 + 所有對應題目
 - reading_question  # 整題文章 + 所有對應題目
 
-【每個 chunk 欄位】
+【每個 chunk 欄位，不可以有任何省略,也不可以任意添加】
 - chunk_type
 - level：{difficulty_level}
 - grammar_points（請根據提供的文法清單判斷）
 - chunk_text：完整題幹 + 選項 + 文章（如有）
+- filename: {pdf_path}
 
 【輸出規則】
 - 嚴格輸出 JSON array
@@ -142,10 +144,8 @@ def generate_prompt(content, difficulty_level):
 - 感嘆句
 - 英文中「也」的用法
 - it 用法總整理
-- 書信格式
+- 書信格
 
 【教材內容如下】
-\"\"\"
-{content}
-\"\"\"
-"""
+\"\"\" {content} \"\"\"
+

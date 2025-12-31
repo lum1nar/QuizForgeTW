@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="zh-Hant">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>AI 問答介面</title>
+    <link rel="stylesheet" href="/static/style.css" />
+</head>
+
+<body>
+    <div class="app">
+        <h1>AI 問答</h1>
+        <p class="subtitle">輸入你的問題，讓模型回答</p>
+
+        <div class="input-area">
+            <input type="text" id="promptInput" placeholder="請輸入你的 prompt..." />
+            <button id="sendBtn">送出</button>
+        </div>
+
+        <div id="response" class="response-box">
+            <!-- model 回應顯示在這 -->
+        </div>
+    </div>
+
+    <script src="/static/scripts.js"></script>
+</body>
+
+</html>
