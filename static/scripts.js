@@ -12,7 +12,7 @@ async function sendPrompt() {
     output.textContent = "";
 
     try {
-        const res = await fetch("http://100.74.76.70:8000/ask", {
+        const res = await fetch("http://localhost:8000/ask", {
             method: "POST",
             headers: {
                 "Content-Type": "application/json",

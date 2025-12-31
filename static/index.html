@@ -3,14 +3,20 @@
 
 <head>
     <meta charset="UTF-8" />
-    <title>AI 問答介面</title>
+    <title>QuizForgeTW</title>
     <link rel="stylesheet" href="/static/style.css" />
+    <link rel="stylesheet" crossorigin="anonymous"
+        href="https://cdn.jsdelivr.net/npm/misans@4.1.0/lib/Normal/MiSans-Medium.min.css" />
+    <link rel="stylesheet" crossorigin="anonymous"
+        href="https://cdn.jsdelivr.net/npm/misans@4.1.0/lib/Normal/MiSans-Bold.min.css" />
 </head>
 
 <body>
     <div class="app">
-        <h1>AI 問答</h1>
-        <p class="subtitle">輸入你的問題，讓模型回答</p>
+        <h1>QuizForgeTW</h1>
+        <p class="subtitle">
+            LLM 將根據你的需求撰寫題目，簡單的問題將不會啓用 RAG 功能
+        </p>
 
         <div class="input-area">
             <input type="text" id="promptInput" placeholder="請輸入你的 prompt..." />
