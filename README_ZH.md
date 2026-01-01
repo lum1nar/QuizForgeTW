@@ -1,5 +1,7 @@
 # 📘 QuizForgeTW (中文版)
 
+![demo](./static/demo.png)
+
 **使用 agentic RAG 技術，輕鬆生成臺灣高中風格的英文考題。從 PDF 考卷檔案到可直接使用的題目，ExamRAG 將智慧、語境與考試專業整合於一個流程中。**
 
 ### ✨ 特色功能

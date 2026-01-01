@@ -1,5 +1,7 @@
 # 📘 QuizForgeTW (English Version)
 
+![demo](./static/demo.png)
+
 **Effortlessly generate Taiwanese high school–style English exam questions using agentic RAG technology. From PDF archives to ready-to-use questions, ExamRAG brings intelligence, context, and exam expertise into one pipeline.**
 
 ### ✨ Key Features
