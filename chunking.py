@@ -48,6 +48,8 @@ for pdf_file in pdf_files:
 
     pages_text = extract_text_by_page(pdf_path)
 
+    print(f"""抽出的文字爲:\n{pages_text}""")
+
     all_responses = []
 
     if "國中" in pdf_path:
@@ -69,7 +71,7 @@ for pdf_file in pdf_files:
         )
         page_response = llm(prompt, "gpt-oss:120b")
         all_responses.append(page_response)
-        print(page_response)
+        print(f"""整理後的題目爲:\n{page_response}""")
 
     # merge and check if the json is valid
     llm_response = "[{}]".format(",".join([r.strip("[]") for r in all_responses]))
@@ -91,5 +93,6 @@ for pdf_file in pdf_files:
 
     # Update chunked_pdfs
     chunked_pdfs.add(pdf_file)
+    print(f"{pdf_file} 已被加進處理過的檔案")
     with open(CHUNKED_LIST_FILE, "w", encoding="utf-8") as f:
         json.dump(sorted(chunked_pdfs), f, ensure_ascii=False, indent=2)
