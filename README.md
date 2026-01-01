@@ -1,99 +1,104 @@
-# 📘 QuizForgeTW (English Version)
+# 📘 QuizForgeTW (中文版)
 
 ![demo](./static/demo.png)
 
-**Effortlessly generate Taiwanese high school–style English exam questions using agentic RAG technology. From PDF archives to ready-to-use questions, ExamRAG brings intelligence, context, and exam expertise into one pipeline.**
+**使用 agentic RAG 技術，輕鬆生成臺灣高中風格的英文考題。從 PDF 考卷檔案到可直接使用的題目，QuizForgeTW 將智慧、語境與考試專業整合於一個流程中。**
 
-### ✨ Key Features
+### ✨ 特色功能
 
-- **🧠 Agentic RAG Intelligence**
-  Automatically decides whether to retrieve relevant content before generating questions—no wasted prompts, no irrelevant material.
+- **🧠 智能 RAG 決策**
+  系統會自動判斷是否需要檢索相關內容，再生成題目—避免浪費 prompt 或取得無關資料。
 
-- **📄 Exam-Aware Semantic Chunking**
-  Large language models intelligently chunk PDF content based on exam structure and context, not arbitrary fixed sizes.
+- **📄 考試感知語意分段**
+  使用 LLM 根據考卷結構與語境分段，而非任意固定大小。
 
-- **📚 Grammar & Exam Style–Focused Retrieval**
-  Retrieves questions matching semantic intent, grammar focus, and closely emulates Taiwanese junior & senior high exam formats.
+- **📚 文法與考試風格檢索**
+  精準找出符合語意、文法重點的題目，貼近臺灣國中、高中考試風格。
 
-- **📝 Realistic Exam Question Generation**
-  Supports cloze, grammar, and reading comprehension questions—all generated to resemble authentic Taiwanese school exams.
+- **📝 真實感考題生成**
+  支援克漏字、文法、閱讀理解題目—生成的題目與真實考試高度相似。
 
-- **⚡ Offline Indexing, Instant Online Generation**
-  Heavy embedding and indexing are done offline for lightning-fast and stable online question generation.
+- **⚡ 離線索引、線上即時生成**
+  嵌入與索引工作全部離線完成，線上生成題目快速穩定。
 
----
+### 📔 考卷鑑別度
 
-## 🧠 Models Used
+請參考 [出題範例](./demo_output.pdf) 第 8 題，如果學生認爲 (A) (B) 選項都是正解，
+代表學生尚未具備關係代名詞中**非限定用法**的觀念。
 
-| Purpose                        | Model                     |
-| ------------------------------ | ------------------------- |
-| Chunking & Exam Synthesis      | `gpt-oss:120b` (ncku)     |
-| RAG Query Generation           | `gpt-oss:20b` (ncku)      |
-| Lightweight Decision & Control | `gemma3:4b` (ncku)        |
-| Text Embedding                 | `embeddinggemma` (Ollama) |
-| Vector Database                | FAISS                     |
+> 由於出題過程會大量採納歷史題庫，因此能夠針對臺灣國高中段考八股的**陷阱題**進行測驗
 
----
+![Q8](./static/q8.png)
 
-## 🏗️ How It Works (High-Level)
+## 🧠 使用模型
+
+| 用途             | 模型                      |
+| ---------------- | ------------------------- |
+| 分段與考題生成   | `gpt-oss:120b` (ncku)     |
+| RAG 搜尋查詢生成 | `gpt-oss:20b` (ncku)      |
+| 輕量決策與控制   | `gemma3:4b` (ncku)        |
+| 文本嵌入         | `embeddinggemma` (Ollama) |
+| 向量資料庫       | FAISS                     |
+
+## 🏗️ 系統流程概覽
 
 ```mermaid
 flowchart TD
     %% =========================
     %% Offline: PDF → VectorDB
     %% =========================
-    A[PDF Files]
-        --> B[pdfextractor / pdfplumber\nExtract Raw Text]
 
-    B --> C[gpt-oss:120b\nAgentic Chunking\nJSON Chunks]
+    A[PDF 檔案]
+        -->|擷取原始文字| B[pdfplumber]
 
-    C --> D[Validate JSON Schema]
+    B -->|LLM 智能分段| C[gpt-oss:120b]
 
-    D --> E[all_chunks.json\nValid Chunks]
+    C -->|輸出 JSON chunks| D[Chunk Validator]
 
-    E --> F[chunked_pdf.json\nRecord Processed PDFs]
+    D -->|有效分段| E[all_chunks.json]
 
-    %% --- Embedding Pipeline ---
-    E --> G[ollama embeddinggamma\nEmbed chunk_text with metadata]
+    E -->|記錄已處理 PDF| F[chunked_pdf.json]
 
-    G --> H[FAISS VectorDB\nexam_chunks.faiss]
+    %% Embedding
+    E -->|嵌入文字 + metadata| G[ollama embeddinggamma]
 
-    G --> I[Metadata Backup\nexam_chunks_meta.json]
+    G -->|建立向量索引| H[FAISS VectorDB]
+
+    G -->|備份 metadata| I[exam_chunks_meta.json]
 
     %% =========================
-    %% Online: User → Answer
+    %% Online: 使用者 → 題目生成
     %% =========================
-    J[User Input\nExam Generation Request]
-        --> K[gemma3:4b\nNeed RAG?]
 
-    K -->|No| L[gemma3:4b\nDirect Answer]
+    J[使用者請求]
+        -->|判斷是否需要 RAG| K[gemma3:4b]
 
-    K -->|Yes| M[gpt-oss:20b\nGenerate RAG Search Query\nfor Cloze Questions]
+    K -->|不需要| L[直接生成考題]
 
-    M --> N[embeddinggamma\nEmbed search_query]
+    K -->|需要| M[RAG Cloze 查詢產生器 <br> gpt-oss:20b<br>]
 
-    N --> O[FAISS Search\nVector Similarity]
+    M -->|查詢嵌入| N[embeddinggamma]
 
-    O --> P[Retrieve Chunks\nGrammar and Metadata]
+    N -->|向量相似度搜尋| O[FAISS]
 
-    P --> Q[gpt-oss:20b\nGenerate RAG Search Query\nfor Reading Questions]
+    O -->|取得相關 chunks| P[文法 + metadata]
 
-    Q --> N
+    P -->|補充閱讀題查詢| Q[RAG 閱讀題組查詢產生器 <br> gpt-oss:20b<br>]
 
-    P --> S[gpt-oss:120b\nSynthesize and Generate Exam]
+    Q --> |查詢嵌入| N
 
-    S --> T[Final Exam Questions]
+    P -->|整合內容生成考題| S[gpt-oss:120b]
+
+    S --> T[最終考題]
 ```
 
----
+## 🚀 快速開始 (Linux)
 
-## 🚀 Quick Start (Linux)
-
-### 0. Requirements
+### 0. 系統需求
 
 - Python 3.12
-- [Ollama](https://ollama.com/) (must be installed)
-- Ollama Model: `embeddinggamma`
+- [Ollama](https://ollama.com/) (需安裝)
+- Ollama 模型：`embeddinggamma`
 
 ```bash
 curl -fsSL https://ollama.com/install.sh | sh
@@ -101,64 +106,62 @@ ollama pull embeddinggamma
 ollama serve
 ```
 
-### 1. Install Dependencies
+### 1. 安裝依賴
 
 ```bash
-# Optional: Create a virtual environment
+# 可選：建立虛擬環境
 python3 -m venv venv
 source venv/bin/activate  # Linux / Mac
 pip install -r requirements.txt
 ```
 
-### 2. Environment Variables
+### 2. 環境變數
 
-Create a `.env` file in the project root and add your API key:
+建立 `.env` 檔案於專案根目錄，並填入 API Key：
 
 ```env
 # .env
 API_KEY=your_api_key_here
 ```
 
-### 3. Prepare PDFs
+### 3. 準備 PDF
 
 ```bash
 cd pdf
-# Place exam PDFs into ./pdf directory
+# 將考卷 PDF 放入 ./pdf
 ```
 
-### 4. Offline Chunking & Indexing
+### 4. 離線分段與索引
 
 ```bash
-# Chunk PDFs and organize content
+# PDF 分段整理
 python3 chunking.py
 
-# Build vector embeddings
+# 建立向量嵌入
 python3 embedding.py
 ```
 
-### 5. Run the Agent (Server Mode)
+### 5. 啟動代理 (Server 模式)
 
 ```bash
-# Start FastAPI / Uvicorn server
+# 啟動 FastAPI / Uvicorn 伺服器
 uvicorn server:app --host 0.0.0.0 --port 8000
 ```
 
-- Open a browser and visit: [http://localhost:8000](http://localhost:8000)
-- Use the frontend to enter a prompt and interact with the agent.
+- 開啟瀏覽器並訪問：[http://localhost:8000](http://localhost:8000)
+- 使用前端輸入 prompt 開始互動。
 
----
-
-## 📂 Project Structure
+## 📂 專案結構
 
 ```bash
 .
-├── pdf/                    # Raw exam PDFs
-├── prompts/                # Prompt templates
-├── json/                   # Chunk & metadata outputs
-├── exam_chunks.faiss       # FAISS index
-├── chunking.py             # Offline chunking
-├── embedding.py            # Offline embedding
-├── agent.py                # Generate exam questions
+├── pdf/                    # 原始考卷 PDF
+├── prompts/                # Prompt 模板
+├── json/                   # Chunk 與 metadata 輸出
+├── exam_chunks.faiss       # FAISS 索引
+├── chunking.py             # 離線分段
+├── embedding.py            # 離線嵌入
+├── agent.py                # 考題生成
 ├── utils.py
-├── server.py               # Localhost web server
+├── server.py               # 本地 Web Server
 ```
