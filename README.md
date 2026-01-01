@@ -1,4 +1,6 @@
-# 📘 QuizForgeTW [English Version](/README_EN.md)
+# 📘 QuizForgeTW
+
+[English Version](/README_EN.md)
 
 ![demo](./static/demo.png)
 
