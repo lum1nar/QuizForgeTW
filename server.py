@@ -43,10 +43,9 @@ class PromptRequest(BaseModel):
 class AnswerResponse(BaseModel):
     answer: str
 
-# 將 static 資料夾掛載到 /static
+# 將 static 資料夾掛載到 /static，因爲 fastapi 內部有自己的 directory
 app.mount("/static", StaticFiles(directory="static"), name="static")
 
-# 根路徑回傳 index.html
 @app.get("/")
 def read_index():
     return FileResponse("static/index.html")
