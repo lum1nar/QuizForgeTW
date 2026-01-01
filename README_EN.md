@@ -1,4 +1,4 @@
-# 📘 QuizForgeTW (English Version)
+# 📘 QuizForgeTW [Chinese Version](/README.md)
 
 ![demo](./static/demo.png)
 
