@@ -69,6 +69,7 @@ for pdf_file in pdf_files:
         )
         page_response = llm(prompt, "gpt-oss:120b")
         all_responses.append(page_response)
+        print(page_response)
 
     # merge and check if the json is valid
     llm_response = "[{}]".format(",".join([r.strip("[]") for r in all_responses]))
