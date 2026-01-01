@@ -3,12 +3,12 @@ import numpy as np
 import json
 from utils import embed_text
 
-with open("exam_chunks_meta.json", "r", encoding="utf-8") as f:
+with open("./json/exam_chunks_meta.json", "r", encoding="utf-8") as f:
     metadatas = json.load(f)
 
 index = faiss.read_index("exam_chunks.faiss")
 
-prompt = input("請輸入想搜尋的內容")
+prompt = input("請輸入想搜尋的內容:")
 
 query_vec = embed_text(prompt)
 
