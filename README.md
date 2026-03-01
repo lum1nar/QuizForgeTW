@@ -3,7 +3,6 @@
 [English Version](/README_EN.md)
 
 ![demo](./static/demo.png)
-
 **使用 agentic RAG 技術，輕鬆生成臺灣高中風格的英文考題。從 PDF 考卷檔案到可直接使用的題目，QuizForgeTW 將智慧、語境與考試專業整合於一個流程中。**
 
 ### ✨ 特色功能
@@ -33,6 +32,8 @@
 ![Q8](./static/q8.png)
 
 ## 🧠 使用模型
+
+> 2026.03.01 更新：學校收回了 LLM，因此改用 DeepSeek
 
 | 用途             | 模型                      |
 | ---------------- | ------------------------- |
@@ -119,7 +120,7 @@ pip install -r requirements.txt
 
 ### 2. 環境變數
 
-建立 `.env` 檔案於專案根目錄，並填入 API Key：
+建立 `.env` 檔案於專案根目錄，並填入 DEEPSEEK API Key：
 
 ```env
 # .env
@@ -165,5 +166,6 @@ uvicorn server:app --host 0.0.0.0 --port 8000
 ├── embedding.py            # 離線嵌入
 ├── agent.py                # 考題生成
 ├── utils.py
+├── ask.py                  # 測試 DeepSeek API Call
 ├── server.py               # 本地 Web Server
 ```

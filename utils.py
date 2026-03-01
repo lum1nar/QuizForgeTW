@@ -5,6 +5,7 @@ import json
 import os
 import re
 import numpy as np
+from openai import OpenAI
 from pathlib import Path
 from dotenv import load_dotenv
 
@@ -87,6 +88,22 @@ def llm(prompt, llmmodel="gemma3:4b"):
                 token_text = token_json.get("response", "")
                 page_response += token_text
     return page_response
+
+def llm2(prompt):
+    client = OpenAI(api_key=API_KEY, base_url="https://api.deepseek.com")
+
+    response = client.chat.completions.create(
+        model="deepseek-chat",
+        messages=[
+            {"role": "system", "content": "You are a helpful assistant"},
+            {"role": "user", "content": prompt},
+        ],
+        stream=False,
+    )
+
+    print(response.choices[0].message.content)
+
+    return response.choices[0].message.content
 
 def search_exam_chunks(query: str):
     with open("./json/exam_chunks_meta.json", "r", encoding="utf-8") as f:
